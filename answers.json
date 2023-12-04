@@ -1,0 +1,730 @@
+[
+   {
+      "q_1": "What does a compiler do? What does a linker do?",
+      "answers": [
+			"Compiler verifies that the source code adheres to the programming language's grammar rules. Linker resolves addresses and references among different modules to ensure proper linking.",
+			"Compiler enhances code efficiency and performance by applying various optimizations. Linker attaches external libraries to the program, resolving function calls to their actual locations.",
+			"Compiler identifies and reports errors such as syntax errors or type mismatches. Linker matches symbolic names used in the code with actual memory addresses or locations."
+	   ]
+   },
+   {
+      "q_2": "What is MinGw?",
+      "answers": [
+			"MinGW (\"Minimalist GNU for Windows\"), formerly mingw32, is a free and open source software development environment to create Microsoft Windows applications.",
+			"MinGW is a complete GCC toolchain for the Windows platform which compiles for and links to the Windows OS component C Runtime Library in msvcrt.dll. Rather it tries to be minimal.",
+			"Minimalist GNU for Windows (MinGW) is a native software port of the GNU tool chain for the Microsoft Windows operating system. The base components of MinGW software are compiler, linker, and assembler."		
+	   ]
+   },
+   {
+      "q_3": "How do I install the MinGW package?",
+      "answers": [
+			"Download the MinGW source code, compile it manually, and configure the system's PATH variable to include the MinGW binaries. This approach requires more technical expertise.",
+			"Use Wine (a compatibility layer for running Windows applications on Unix-like systems) to run the MinGW installer designed for Windows on macOS. This allows installation without a native MinGW package.",
+			"Some integrated development environments (IDEs) provide built-in support for MinGW on macOS. Install an IDE like Code::Blocks or Eclipse, and during the setup, select MinGW as the toolchain for macOS development."		
+	   ]
+   },
+   {
+      "q_4": "How to install MinGw on MacOs?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_5": "What are all the ways I can set the System variable Path?",
+      "answers":  [
+			"(Windows): Use the Command Prompt or PowerShell to set the system PATH variable. For example, in Command Prompt, execute the command setx PATH \"%PATH%;C:\\Your\\Path\\Here\" to append a directory to the existing PATH.",
+			"(Unix-like systems): On Unix-like systems (Linux, macOS), modify profile files like .bashrc or .profile. Add a line such as export PATH=$PATH:/your/path/here to append a directory to the PATH.",
+			"(macOS): On macOS, open the \"System Preferences,\" go to \"Users & Groups,\" select your user, click on \"Login Items,\" and add the desired paths. Alternatively, modify shell profiles like .bash_profile or .zshrc."		
+	   ]
+   },
+   {
+      "q_6": "How do I translate and execute a simple program using shell commands?",
+      "answers": [
+			"Create a Makefile with compilation instructions. Use the command make to build the executable and then execute it.",
+			"For one-time execution without creating an executable file, use gcc -o /dev/null your_program.c && ./a.out. This compiles and executes without creating a persistent executable.",
+			"Combine compilation and execution in a single line with gcc -o output_executable your_program.c && ./output_executable."		
+	   ]
+   },
+   {
+      "q_7": "How to compile a file in command prompt?",
+      "answers": [
+			"For a simple compilation without specifying an output executable name, use gcc your_file.c. This generates the default executable named a.out.",
+			"Combine compilation and execution using GCC with gcc -o output_executable your_file.c && ./output_executable. This compiles and runs the program in one command.",
+			"Compile a C file without specifying an output file, using gcc your_file.c. Then, execute the resulting default executable with ./a.out."		
+	   ]
+   },
+   {
+      "q_8": "What are the possible problems whem compiling or executing the program?",
+      "answers": [
+			"Problems resolving references between different parts of the program during the linking phase can result in linker errors.",
+			"If functions or variables are used but not defined or declared, the compiler may generate errors during compilation.",
+			"Runtime errors like segmentation faults or crashes can occur due to memory-related problems, such as accessing uninitialized variables or buffer overflows."		
+	   ]
+   },
+   {
+      "q_9": "How do I setup the Visual Studio Code environment?",
+      "answers": [
+			"Download and install Visual Studio Code from the official website, adhering to the installation instructions provided for your specific operating system.",
+			"Set up Visual Studio Code by acquiring it from the official website and installing it based on the prescribed instructions for your operating system.",
+			"Download Visual Studio Code from the official website and install it following the provided instructions tailored to your operating system for a seamless setup experience."		
+	   ]
+   },
+   {
+      "q_10": "Explain me how to setup Visual Studio Code for Linux operating system.",
+      "answers": [
+         "Download Visual Studio Code (VSC) for Linux from https://code.visualstudio.com/download and install it. Open VSC, treat a single folder as a project. Install the C/C++ extension, create a .vscode subfolder, and generate tasks.json and launch.json files. In the tasks.json file, write the following code: { \"version\": \"2.0.0\", \"tasks\": [{ \"label\": \"Build with gcc\", \"type\": \"shell\", \"command\": \"gcc\", \"args\": [\"-g\", \"-std=c11\", \"-pedantic-errors\", \"-Wall\", \"-o\", \"program.exe\", \"${file}\"] }] } This code configures a task called \"Build with gcc\" to compile a C program using gcc. Create a launch.json file in the same .vscode subfolder with the following content: { \"version\": \"0.2.0\", \"configurations\": [ { \"name\": \"C Launch\", \"preLaunchTask\": \"Build with gcc\", \"type\": \"cppdbg\", \"request\": \"launch\", \"program\": \"${workspaceRoot}/program.exe\", \"args\": [], \"stopAtEntry\": false, \"cwd\": \"${workspaceRoot}\", \"environment\": [], \"externalConsole\": true, \"miDebuggerPath\": \"gdb.exe\", \"linux\": { \"MIMode\": \"gdb\" }, \"osx\": { \"MIMode\": \"lldb\" }, \"windows\": { \"MIMode\": \"gdb\" } } ] } This code sets up a launch configuration named \"C Launch\" to execute the compiled program with gdb for Linux. Reload VSC, open your source program file, select Debug, and press F5 to compile and execute. Save changes with File/Save or Ctrl-S and prevent immediate closure by placing a breakpoint on the last line of the program.",
+         "Begin by fetching Visual Studio Code (VSC) for Linux through https://code.visualstudio.com/download and completing the installation. Once installed, launch VSC and designate a single folder as your project. Proceed to install the C/C++ extension and create a .vscode subfolder, generating tasks.json and launch.json files. Within tasks.json, input the following code: { \"version\": \"2.0.0\", \"tasks\": [{ \"label\": \"Build with gcc\", \"type\": \"shell\", \"command\": \"gcc\", \"args\": [\"-g\", \"-std=c11\", \"-pedantic-errors\", \"-Wall\", \"-o\", \"program.exe\", \"${file}\"] }] } This code configures a task named \"Build with gcc\" for compiling C programs using gcc. Generate a launch.json file in the same .vscode subfolder with the subsequent content: { \"version\": \"0.2.0\", \"configurations\": [ { \"name\": \"C Launch\", \"preLaunchTask\": \"Build with gcc\", \"type\": \"cppdbg\", \"request\": \"launch\", \"program\": \"${workspaceRoot}/program.exe\", \"args\": [], \"stopAtEntry\": false, \"cwd\": \"${workspaceRoot}\", \"environment\": [], \"externalConsole\": true, \"miDebuggerPath\": \"gdb.exe\", \"linux\": { \"MIMode\": \"gdb\" }, \"osx\": { \"MIMode\": \"lldb\" }, \"windows\": { \"MIMode\": \"gdb\" } } ] } This code establishes a launch configuration named \"C Launch\" for executing the compiled program with gdb on Linux. Reload VSC, open your source program file, choose Debug, and hit F5 to compile and execute. Ensure changes are saved with File/Save or Ctrl-S, preventing immediate closure by placing a breakpoint on the last line of the program.",
+         "Initiate the setup of Visual Studio Code (VSC) on Linux by fetching it from https://code.visualstudio.com/download and executing the installation. Following installation, launch VSC and consider a single folder as your project. Install the C/C++ extension and craft a .vscode subfolder, generating tasks.json and launch.json files. Incorporate the provided code into tasks.json: { \"version\": \"2.0.0\", \"tasks\": [{ \"label\": \"Build with gcc\", \"type\": \"shell\", \"command\": \"gcc\", \"args\": [\"-g\", \"-std=c11\", \"-pedantic-errors\", \"-Wall\", \"-o\", \"program.exe\", \"${file}\"] }] } This code defines a task named \"Build with gcc\" for gcc-based compilation of C programs. Create a launch.json file within the same .vscode subfolder, incorporating the following content: { \"version\": \"0.2.0\", \"configurations\": [ { \"name\": \"C Launch\", \"preLaunchTask\": \"Build with gcc\", \"type\": \"cppdbg\", \"request\": \"launch\", \"program\": \"${workspaceRoot}/program.exe\", \"args\": [], \"stopAtEntry\": false, \"cwd\": \"${workspaceRoot}\", \"environment\": [], \"externalConsole\": true, \"miDebuggerPath\": \"gdb.exe\", \"linux\": { \"MIMode\": \"gdb\" }, \"osx\": { \"MIMode\": \"lldb\" }, \"windows\": { \"MIMode\": \"gdb\" } }] } This code configures a launch named \"C Launch\" to execute the compiled program with gdb on Linux. Reload VSC, open your source program file, opt for Debug, and press F5 to compile and execute. Save changes with File/Save or Ctrl-S, and forestall immediate closure by placing a breakpoint on the last line of the program.",
+         "Commence the Visual Studio Code (VSC) setup on Linux by acquiring it from https://code.visualstudio.com/download and finalizing the installation. Once installed, initiate VSC, designating a single folder as your project. Integrate the C/C++ extension and construct a .vscode subfolder, generating tasks.json and launch.json files. For tasks.json, inject the specified code: { \"version\": \"2.0.0\", \"tasks\": [{ \"label\": \"Build with gcc\", \"type\": \"shell\", \"command\": \"gcc\", \"args\": [\"-g\", \"-std=c11\", \"-pedantic-errors\", \"-Wall\", \"-o\", \"program.exe\", \"${file}\"] }] } This code configures a task, labeled \"Build with gcc,\" facilitating gcc-based compilation of C programs. Forge a launch.json file within the same .vscode subfolder, encompassing the subsequent content: { \"version\": \"0.2.0\", \"configurations\": [ { \"name\": \"C Launch\", \"preLaunchTask\": \"Build with gcc\", \"type\": \"cppdbg\", \"request\": \"launch\", \"program\": \"${workspaceRoot}/program.exe\", \"args\": [], \"stopAtEntry\": false, \"cwd\": \"${workspaceRoot}\", \"environment\": [], \"externalConsole\": true, \"miDebuggerPath\": \"gdb.exe\", \"linux\": { \"MIMode\": \"gdb\" }, \"osx\": { \"MIMode\": \"lldb\"}, \"windows\": { \"MIMode\": \"gdb\" } } ] } This code defines a launch configuration named \"C Launch\" for executing the compiled program with gdb on Linux. Refresh VSC, open your source program file, opt for Debug, and execute compilation with F5. Preserve changes with File/Save or Ctrl-S, and avert immediate closure by setting a breakpoint on the last line of the program.",
+         "Initiate the Visual Studio Code (VSC) configuration on Linux by retrieving it from https://code.visualstudio.com/download and executing the installation. Following installation, commence VSC, considering a single folder as your project. Immerse the C/C++ extension and devise a .vscode subfolder, producing tasks.json and launch.json files. Inscribe the provided code into tasks.json: { \"version\": \"2.0.0\", \"tasks\": [{ \"label\": \"Build with gcc\", \"type\": \"shell\", \"command\": \"gcc\", \"args\": [\"-g\", \"-std=c11\", \"-pedantic-errors\", \"-Wall\", \"-o\", \"program.exe\", \"${file}\"] }] } This code shapes a task labeled \"Build with gcc,\" facilitating gcc-based compilation of C programs. Construct a launch.json file within the same .vscode subfolder, encapsulating the ensuing content:{ \"version\": \"0.2.0\", \"configurations\": [ { \"name\": \"C Launch\", \"preLaunchTask\": \"Build with gcc\", \"type\": \"cppdbg\", \"request\": \"launch\", \"program\": \"${workspaceRoot}/program.exe\", \"args\": [], \"stopAtEntry\": false, \"cwd\": \"${workspaceRoot}\", \"environment\": [], \"externalConsole\": true, \"miDebuggerPath\": \"gdb.exe\", \"linux\": { \"MIMode\": \"gdb\" },\"osx\": { \"MIMode\": \"lldb\"}, \"windows\": { \"MIMode\": \"gdb\" } } ] } This code shapes a launch configuration titled \"C Launch\" for executing the compiled program with gdb on Linux. Refresh VSC, unveil your source program file, opt for Debug, and institute compilation with F5. Safeguard changes with File/Save or Ctrl-S, and inhibit immediate closure by implementing a breakpoint on the last line of the program."
+      ]
+   },
+   {
+      "q_11": "Give me the basics of using a debugger in Visual Studio Code.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_12": "What is step out action?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_13": "When should I use step in action in vscode?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_14": "How can I tell if my program file is executable or not?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_15": "How can I create a universal Makefile?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_16": "Is creating a universal Makefile really needed?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_17": "Which is better to use Vsc or Notepad?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_18": "How do I enable the VSC extension for C/C++ code formatting?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_19": "How do i format my code?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_20": "Give me an example well formatted C code.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_21": "Which code looks better:#include <stdio.h>\nint main(void) { if\n(1) { printf (\"1\"); } else { \nprintf (\"2\"); }} \n\n or\n\n#include <stdio.h>\n\nint main(void) {\n   if (1) {\n      printf(\"1\");\n   } else {\n      printf(\"2\");\n   }\n}",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_22": "Which platform is used for performing laboratory exercises and exams?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_23": "What do I use to log in into Edgar?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_24": "Can I use official reminders on exams and laboratory exercises?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_25": "How to take the exam from last year at edgar?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_26": "If there are multiple test cases for a task, will every test case be worth the same amount of points?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_27": "Explain to me, in detail, how the checks with program tasks work in Edgar.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_28": "Is there a support system in Edgar?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_29": "How does the support system in Edgar work?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_30": "Is asking for solutions with the ticketing system ok?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_31": "What is the official course web-address?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_32": "What is a lecture cycle?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_33": "How long is the first cycle of lectures?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_34": "What is the duration of the second cycle in weeks?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_35": "Are there prerequisites for enrollment into subject?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_36": "How much independent work is expected from the student in this course?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_37": "What will happen if i dont work continuously?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_38": "How is the total estimated engagement of the student for this course divided?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_39": "How should i study outside of the lectures if I want to get a good grade?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_40": "Why do i need to solve a large number of tasks if I want a good grade?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_41": "Which competences are expected to be acquired after completing the subject?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_42": "How do laboratory exercises work?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_43": "What is the duration of one laboratory exercise?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_44": "Are there negative points on laboratory exercises?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_45": "What should i do with my code before running it in edgar?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_46": "Where can I find the schedule of the laboratory exercises?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_47": "How many parts does the laboratory excercise have and list them.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_48": "If I have 0 points from lab excercises, can I pass with a grade of 5?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_49": "What are my options for consultations?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_50": "During consultations, I ask the teacher to teach me through the material?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_51": "Can employees of another university hold consultations?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_52": "How many tests does the continuous monitoring of classes require?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_53": "Give me information about how the knowledge tests work.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_54": "What happens if I do not pass the course during the continuous monitoring of classes?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_55": "What are the conditions of passing the course during the continuous monitoring of classes?",
+      "answers": [
+         "The conditions of passing the course during the continuous monitoring of classes are achieved a threshold of at least 14 points on the final exam and more than 50 points in total.",
+         "Conditions for obtaining a passing grade based on continuous assessment: achieved a threshold of at least 14 (out of 35 possible) points on the final exam and total points > 50.",
+         "To successfully pass the course through ongoing class assessments, a minimum score of 14 points on the final exam and a cumulative total exceeding 50 points must be attained.",
+         "Meeting the course requirements through continuous class evaluation involves securing a minimum of 14 points on the final exam and achieving a total score surpassing 50 points.",
+         "Successful completion of the course during continuous class assessment necessitates scoring a minimum of 14 points on the final exam and accumulating more than 50 points overall.",
+         "The conditions for passing the course through continuous class evaluation include reaching a threshold of at least 14 points on the final exam and garnering a total score exceeding 50 points."
+      ]
+   },
+   {
+      "q_56": "Can I bring my personalized reminder to the exam?",
+      "answers": [
+         "No you can't bring your presonalized reminder, however you are allowed to use official reminder during any knowledge test.",
+         "No you can't bring your presonalized reminder to the exam.",
+         "Personalized reminders are not permitted, but you have the freedom to utilize official reminders during any test.",
+         "The use of personalized reminders is prohibited; however, official reminders are allowed during all tests.",
+         "It is not permissible to bring personalized reminders, but the use of official reminders is permitted in any knowledge test."
+      ]
+   },
+   {
+      "q_57": "What will happen if I do not submit the exam on time?",
+      "answers": [
+         "The student is obliged to submit the test for assessment by the end of the countdown, but it will be possible to submit the test for assessment in a reasonable time after the expiration. This timeout, however, will be recorded in the system, so the test can be canceled later.",
+         "It is the student's responsibility to submit the test for assessment by the countdown's end. Yet, there is a reasonable window post-expiration for test submission, and the system will log this timeout, enabling potential cancellation.",
+         "If you don't submit test on time it is possible it will be canceled later.",
+         "Submission of the test for assessment by the countdown's end is a requirement for the student. However, there is a sensible timeframe after expiration for test submission, and the system will note this timeout for potential cancellation."
+      ]
+   },
+   {
+      "q_58": "Can I call a friend during the exam?",
+      "answers": [
+         "You are not allowed to call a frend or other people during the exam.",
+         "No, you can't call anyone during the exam.",
+         "I don't have enough information to answer this question."
+      ]
+   },
+   {
+      "q_59": "Who do I contact if I have questions during the exam?",
+      "answers": [
+         "If you have a question during exam you can ask teaching staff using ticketing system.",
+         "If you have a question during exam you can ask teaching staff using ticketing system.",
+         "In case of doubt about the accuracy of the solution or something else, the student can ask a question related to a specific task. In order to facilitate communication between students and teaching staff during the writing of tests, Edgar offers a support system called Ticketing system.",
+         "Edgar provides a support system known as the Ticketing system to enhance communication between students and teaching staff during test writing. If a student has uncertainties about the accuracy of a solution or any other matter, they can ask a question pertaining to a specific task.",
+         "In order to facilitate communication between students and teaching staff during the writing of tests, Edgar offers a support system called Ticketing system. In case of doubt about the accuracy of the solution or something else, the student can ask a question related to a specific task."
+      ]
+   },
+   {
+      "q_60": "What questions will be on this year's midterm exam?",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ] 
+   },
+   {
+      "q_61": "Does the meduispit (MI) have a points threshold?",
+      "answers": [
+         "Midterm exam doesn't have a points threshold.",
+         "There is no threshold for midterm exam.",
+         "There is no minimum points requirement for the midterm exam.",
+         "A points threshold is not applicable to the midterm exam.",
+         "There is no specific points threshold for the midterm exam."
+      ]
+   },
+   {
+      "q_62": "How many points do i need in midterm exam if i want to obtain a passing grade?",
+      "answers": [
+         "Midterm exam doesn't have a points threshold, however to obtain a passing grade you need to achieve a threshold of at least 14 points on the final exam and have more than 50 points in total.",
+         "The midterm exam doesn't impose a points threshold; however, obtaining a passing grade mandates achieving a minimum of 14 points on the final exam and surpassing 50 points in total.",
+         "While no points threshold applies to the midterm exam, securing a passing grade involves achieving at least 14 points on the final exam and having a total score exceeding 50 points.",
+         "There isn't a specific points threshold for the midterm exam, but to pass, you must attain a minimum of 14 points on the final exam and accumulate more than 50 points in total.",
+         "No specific points threshold is assigned to the midterm exam, but to secure a passing grade, you need to reach at least 14 points on the final exam and have a cumulative total exceeding 50 points.",
+         "The midterm exam doesn't mandate a points threshold, but to attain a passing grade, you must score at least 14 points on the final exam and accumulate more than 50 points in total."
+      ]
+   },
+   {
+      "q_63": "When is the midterm exam?",
+      "answers": [
+         "Midterm exams are held, after the first cycle.",
+         "Midterm exams are held, after the first cycle and before second cycle.",
+         "Midterm exams are held between November 15th and December 4th, 2023.",
+         "The midterm exams are scheduled to take place from November 15th to December 4th, 2023.",
+         "Between November 15th and December 4th, 2023, the midterm examinations will be conducted.",
+         "The period for midterm exams spans from November 15th to December 4th, 2023.",
+         "Midterm exams are conducted following the completion of the first cycle and before the commencement of the second cycle."
+      ]
+   },
+   {
+      "q_64": "Does the zavrsni ispit (ZI) have a points threshold?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_65": "If I got 23 points on my laboratory exercises, 7 points on my lectures, 35 points on my midterm exam, and 23 points on my final exam, will I pass?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_66": "What happens if i get 10 points on the final exam?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_67": "How many programming tasks will be on this year's final exam?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_68": "Can teachers organize an extraordinary exam?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_69": "How many points to lab exercises carry? Do they have a points threshold?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_70": "Give me the points scale for determining grades.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_71": "List me the recommended literature.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_72": "Does Marko Horvat author recommended literature?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_73": "Am I allowed to print out an official reminder and bring it with me?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_74": "List me the course lecturers and their respective time slots.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_75": "Does Boris Vrdoljak give lectures? If so, where?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_76": "Give me the email of one of the lecturers.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_77": "If i have a question for the lecturers, what should my email consist of?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_78": "What is the course official email address?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_79": "Give me the link to the official guide for students.",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_80": "Is there a joint points threshold for the meduispit and zavrsni ispit exams?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_81": "11. Can you list me names of lectures that go throughout semester?",
+      "answers": [
+         "",
+         ""
+      ]
+   },
+   {
+      "q_82": "Give me a list of assistants who conduct laboratory exercises.",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_83": "Send me a link to a similar subject at Cambridge University.",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_84": "What is subject's ID on FER intranet page?",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_85": "What subjects can I enroll in when I finish the introduction to programming?",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_86": "Which programming language will we learn in this course?",
+      "answers": [
+         "You will learn C Programming Language in this course.",
+         "C Programming Language is part of the content covered in this course.",
+         "In this course, you'll be introduced to the C Programming Language.",
+         "The learning objectives of this course involve acquiring skills in the C Programming Language.",
+         "The curriculum of this course incorporates learning the fundamentals of the C Programming Language.",
+         "In the duration of this course, you will be familiarized with the principles of the C Programming Language."
+      ]
+   },
+   {
+      "q_87": "Approximately how many slides does each presentation has?",
+      "answers": [
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_88": "How to get a grade of 6?",
+      "answers": [
+         "It is not possible to get grade of 6.",
+         "A grade of 6 is unattainable.",
+         "Achieving a grade of 6 is not an option.",
+         "It is impossible to receive a grade of 6.",
+         "Only grades between 1 and 5 are supported by the grading system."
+      ]
+   },
+   {
+      "q_89": "Can you send me link to official reminder for Python language?",
+      "answers": [
+         "There is no official reminder for Python Language since it isn't topic of this course.",
+         "Given that Python Language is not a focus of this course, there is no official reminder provided.",
+         "Since Python Language is not part of the course content, there is no official reminder pertaining to it.",
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "I don't have enough information to answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
+      ]
+   },
+   {
+      "q_90": "How do I check my program good?",
+      "answers": [
+         "To check if your program is good you need to compile it and see if there are any warnings. If there are you need to resolve them first. After that you need to test your program to see if it works properly.",
+         "To assess the quality of your program, compile it and check for any warnings; if present, resolve them. Following this, conduct testing to ensure the proper functionality of your program.",
+         "To validate the quality of your program, compile it and address any warnings that surface. Afterward, thorough testing is crucial to confirm the accurate performance of your program.",
+         "The evaluation of your program's quality necessitates compiling it and addressing any warnings that appear. Subsequent to this, thorough testing is imperative to ascertain the correct functioning of your program.",
+         "Ensure the quality of your program by compiling it and resolving any warnings that may arise. Afterward, conduct thorough testing to confirm the proper functioning of your program."
+      ]
+   },
+   {
+      "q_91": "What final grade do I get if I score 65 points?",
+      "answers": [
+         "By scoring 65 points you received grade 3 Good.",
+         "Achieving a score of 65 points corresponds to earning a grade of 3, which is considered Good.",
+         "A score of 65 points results in a grade of 3.",
+         "The attainment of 65 points translates to a Good grade.",
+         "Scoring 65 points earns you a grade of 3."
+      ]
+   },
+   {
+      "q_92": "In which time period are there no lectures?",
+      "answers": [
+         "There are no lectures between November 15th and December 4th, 2023. and after January 24th, 2024.",
+         "No lectures are scheduled between November 15th and December 4th, 2023, and after January 24th, 2024.",
+         "There will be a break in lectures from November 15th to December 4th, 2023, and after January 24th, 2024.",
+         "Lectures are not planned between November 15th and December 4th, 2023, as well as after January 24th, 2024.",
+         "The period between November 15th and December 4th, 2023, and after January 24th, 2024, is free of scheduled lectures.",
+         "Lectures take place in two cycles. There are no lectures between cycles when exams are held."
+      ]
+   }
+]
