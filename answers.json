@@ -18,17 +18,18 @@
    {
       "q_3": "How do I install the MinGW package?",
       "answers": [
-			"Download the MinGW source code, compile it manually, and configure the system's PATH variable to include the MinGW binaries. This approach requires more technical expertise.",
-			"Use Wine (a compatibility layer for running Windows applications on Unix-like systems) to run the MinGW installer designed for Windows on macOS. This allows installation without a native MinGW package.",
-			"Some integrated development environments (IDEs) provide built-in support for MinGW on macOS. Install an IDE like Code::Blocks or Eclipse, and during the setup, select MinGW as the toolchain for macOS development."		
+			"You can install MinGW using package managers like MSYS2. Utilize the package manager commands to fetch and install the MinGW components you need.",
+			"Many integrated development environments (IDEs) offer an option to install MinGW during their setup process. Choose this option to automatically install MinGW along with the IDE.",
+			"For advanced users, manual installation involves downloading individual MinGW components and configuring the system's PATH variable to include the MinGW binaries."		
 	   ]
    },
    {
       "q_4": "How to install MinGw on MacOs?",
       "answers": [
-         "",
-         ""
-      ]
+			"Download the MinGW source code, compile it manually, and configure the system's PATH variable to include the MinGW binaries. This approach requires more technical expertise.",
+			"Use Wine (a compatibility layer for running Windows applications on Unix-like systems) to run the MinGW installer designed for Windows on macOS. This allows installation without a native MinGW package.",
+			"Some integrated development environments (IDEs) provide built-in support for MinGW on macOS. Install an IDE like Code::Blocks or Eclipse, and during the setup, select MinGW as the toolchain for macOS development."		
+	   ]
    },
    {
       "q_5": "What are all the ways I can set the System variable Path?",
