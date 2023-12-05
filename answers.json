@@ -160,8 +160,11 @@
    {
       "q_19": "How do i format my code?",
       "answers": [
-         "",
-         ""
+         "To format in VSC you can use the command alt+shift+f.",
+         "VSC will format C/C++ code with the command alt+shift+f.",
+         "To format in VSC you can use the command alt+shift+f. There is automatic code formatting while saving changes is built into this extension, but is turned off by default.",
+         " To format in VSC you can use the command alt+shift+f. There is automatic code formatting while saving changes is built into this extension, but is turned off by default. The automatic code formatting setting while saving changes can be set in File/Preferences/Settings. This, as well as all VSC settings, can be set at the user level (User settings, will be valid in any project/folder) or at the folder level (Workspace settings, will only be valid in the current folder). It is therefore necessary to first indicate the level (in the following example User settings to make the setting valid in other projects as well). Then search for the setting by typing the name of the setting in the search box. Some settings can be edited in the appropriate fields, some, for now (the environment is in constant development) by editing the JSON object. The specific setting is edited by editing the JSON object. Click the pencil icon in the line editor.formatOnSave and select true.",
+         "To format in VSC you can use the command alt+shift+f. There is automatic code formatting while saving changes is built into this extension, but is turned off by default. The default formatting style is somewhat wasteful. This can be changed by adding a file named .clang-format to the folder containing the source code. This file should contain the setting IndentWidth by which we determine the depth of indentation of each level of program statements. It is recommended to indent by 3 letters. IndentWidth: 3. The blank behind the colon is required. With the existence of the file .clang-format, the program will be formatted optimally when saved, in terms of the number of program lines consumed and its readability"
       ]
    },
    {
@@ -234,8 +237,9 @@
    {
       "q_27": "Explain to me, in detail, how the checks with program tasks work in Edgar.",
       "answers": [
-         "",
-         ""
+         "The program code transferred to the Edgar system can be run in the following ways: by selecting the option 'Run', while the program code field is in focus (the mouse pointer is in the field), by a key combination Ctrl + Enter. If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task. This percentage can be 100% if it is a typical test case, for example if a program that determines whether a given number is within the required interval does not work well for numbers inside or outside the interval, or less than 100% if the test case examines program behavior at the boundaries of the interval. The total deducted percentage of points for a task cannot exceed 100%.",
+         " How correct the given solution to a programming task is checked like so: firstly, If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. Secondly, If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task.",
+         "The program code transferred to the Edgar system can be run in the following ways: by selecting the option 'Run' or while the program code field is in focus (the mouse pointer is in the field), by a key combination Ctrl + Enter. If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task."
       ]
    },
    {
@@ -304,64 +308,83 @@
    {
       "q_37": "What will happen if i dont work continuously?",
       "answers": [
-         "",
-         ""
+         "Working continuously is a vital aspect of success in this course. The workload is distributed across the weeks, with an average of 10 hours of independent work expected per week. Avoiding this and opting for last-minute cramming is strongly discouraged. It's essential to understand the materials, practice problem-solving, and prepare for assessments steadily to achieve good results.",
+         "It's crucial to work continuously throughout this course. The workload is designed for approximately 10 hours of independent work each week. Trying to compensate for missed weeks with a last-minute effort is not advisable and is likely to result in poor performance. Consistent effort is essential for comprehending the content, mastering coding skills, and succeeding in laboratory exercises and exams.",
+         "If you choose not to work continuously, it's essential to recognize that this course is designed for consistent effort. The expectation is around 10 hours of independent work each week. Trying to catch up after prolonged inactivity is a risky strategy and will likely lead to poor academic performance. Consistency is key to mastering the materials and excelling in assignments and tests.",
+         "If you don't work continuously, it's important to understand that the course expects an average of about 10 hours of independent work per week. Failing to maintain this continuous effort, and opting for a last-minute approach, is likely to result in poor outcomes. You'll struggle to grasp the materials, develop key skills, and perform well in laboratory exercises and tests."
       ]
    },
    {
       "q_38": "How is the total estimated engagement of the student for this course divided?",
       "answers": [
-         "",
-         ""
+         "The student's total estimated engagement for this course, which is worth 7 ECTS credits, is approximately 210 hours. This breakdown includes 50 hours for attending classes, 20 hours for laboratory exercises and exams, and at least 140 hours for independent work. To succeed, it's essential to allocate time consistently, with an average of around 10 hours of independent work per week, as the course materials are layered and require continuous effort.",
+         "To successfully navigate this course, students are expected to invest approximately 210 hours of total engagement. This breakdown includes 50 hours for attending classes, 20 hours for laboratory exercises and exams, and a significant portion of at least 140 hours dedicated to independent work. It's important to emphasize that a consistent approach, with around 10 hours of independent work per week, is essential due to the course's layered structure.",
+         "The estimated student engagement for this course, rated at 7 ECTS credits, amounts to approximately 210 hours. This engagement is distributed as follows: 50 hours for attending classes, 20 hours for participating in laboratory exercises and exams, and a minimum of 140 hours dedicated to independent work. Maintaining a consistent weekly effort of about 10 hours for independent work is crucial due to the course's approach.",
+         "For this course worth 7 ECTS credits, students are expected to invest a total of approximately 210 hours. This engagement is categorized into three components: 50 hours for class attendance, 20 hours for laboratory exercises and exams, and at least 140 hours for independent work. It's crucial to distribute the 140 hours evenly across the teaching weeks, maintaining an average of around 10 hours of independent work per week. "
       ]
    },
    {
       "q_39": "How should i study outside of the lectures if I want to get a good grade?",
       "answers": [
-         "",
-         ""
+         "To secure a good grade, it's key to adopt an effective study routine outside of lectures. Here's a recommended approach:\nReview lecture slides and maintain detailed notes.\nEngage with the recommended reading materials.\nUse online resources to better your comprehension.\nPrioritize task-solving on your computer to build proficiency in algorithm design, coding, translation, error detection, and testing. These skills are crucial for success in laboratory exercises and exams. Additionally, work on published assignments in parallel with lectures and modify program examples from lecture materials to gain practical experience.",
+         "If you aim for a high grade, it's essential to approach your self-study strategically. Outside of lectures, focus on the following:\nThoroughly review lecture slides and take comprehensive notes.\nDive into the recommended reading materials.\nExplore online resources to make your understanding better.\nDedicate time to solving a variety of tasks on your computer to develop skills in algorithm design, coding, and error detection, which are assessed in laboratory exercises and exams. Work on published assignments alongside lectures and experiment with program examples to gain hands-on experience.",
+         "To get a good grade, focus on these key study tips:\nReview lecture slides and take notes.\nRead recommended materials.\nUse online resources for help.\nPractice solving tasks on your computer to build skills. Work on assignments alongside lectures.",
+         "To aim for a good grade, keep it simple:\nReview lecture slides and jot down notes.\nRead the suggested materials.\nFind extra help online.\nWork on tasks on your computer, like assignments and program examples."
       ]
    },
    {
       "q_40": "Why do i need to solve a large number of tasks if I want a good grade?",
       "answers": [
-         "",
-         ""
+         "Solving a significant number of tasks is essential for earning a good grade because it helps you acquire critical skills. These skills, including basic algorithm design, coding, translation, error detection, and testing, are evaluated in laboratory exercises and written tests such as midterms and final exams. To excel, it's crucial to practice by working on published assignments alongside lectures and experimenting with program examples from lecture materials.",
+         "To secure a good grade, solving a substantial number of tasks is vital because it allows you to build essential skills. These skills, such as simple algorithm design, coding, translation, error detection, and testing, are integral to success in laboratory exercises and exams.",
+         "You need to solve many tasks to get a good grade because it helps you build essential skills. These skills, like designing algorithms, writing code, detecting errors, and testing, are evaluated in labs and exams. By working on assignments alongside lectures and experimenting with program examples, you'll be better prepared.",
+         "You should tackle many tasks to earn a good grade because it's how you acquire important skills. These skills, like creating algorithms, writing code, spotting errors, and testing, are key to success in labs and exams. To do well, work on assignments alongside lectures and experiment with program examples."
       ]
    },
    {
       "q_41": "Which competences are expected to be acquired after completing the subject?",
       "answers": [
-         "",
-         ""
+         "After completing the course, you are expected to acquire several key competences. These include a solid understanding of fundamental programming concepts and the ability to create relatively simple programs using the C programming language. Additionally, you should be proficient in using a compiler and a basic integrated development environment (IDE).",
+         "After successfully completing the course, you should have developed a range of competences. These include a strong foundation in programming principles and the capability to develop simpler programs using the C programming language. Moreover, you should be proficient in utilizing both a compiler and a basic integrated development environment (IDE).",
+         "By the end of the course, you'll have gained skills in fundamental programming concepts, be able to create basic programs in C, and know how to work with a compiler and a simple IDE.",
+         "When you finish the course, you'll have learned the basics of programming, gained the skill to create simple programs in C, and become familiar with using a compiler and a basic IDE."
       ]
    },
    {
       "q_42": "How do laboratory exercises work?",
       "answers": [
-         "",
-         ""
+         "Laboratory exercises are an essential part of the course, and here's how they work:\nThere are eight exercises in total, four before the midterm exam and four after.\nEach exercise lasts around 110 minutes.\nStudents must complete each exercise within the specified time frame, and there are no makeup sessions for missed exercises.\nEach exercise has two parts: multiple-choice questions with positive and negative scoring, and programming tasks with no negative points.\nStudents work independently on faculty computers, supervised by teachers.\nYou can use tools like Notepad, Notepad++, and the gcc compiler via the command line or the VSCode development environment.\nIt's crucial to have elementary program editing skills with Notepad/Notepad++, as well as the ability to compile and run programs from the command line.",
+         "To understand how laboratory exercises work, consider the following:\nThere are eight exercises in total, evenly split into two cycles before and after the midterm exam.\nEach exercise is approximately 110 minutes in duration.\nStudents are required to complete each exercise within the specified time frame, with no opportunity for makeup sessions.\nEach exercise comprises two parts: multiple-choice questions with scoring (positive for correct, negative for incorrect answers) and programming tasks without negative points.\nStudents work independently on faculty computers, utilizing tools like Notepad, Notepad++, gcc compiler via the command line, and VSCode.\nProficiency in basic program editing with Notepad/Notepad++ and the ability to compile and run programs from the command line are important.",
+         "Laboratory exercises are an important part of the course. Here's how they work:\nThere are eight exercises, split into two cycles before and after the midterm exam.\nEach exercise takes around 110 minutes.\nYou must finish each exercise in the given time; there are no second chances.\nExercises have two parts: multiple-choice questions with positive and negative scoring, and programming tasks with no negative points.\nYou work on faculty computers, and you can use tools like Notepad, Notepad++, and the gcc compiler via the command line or VSCode.\nBe sure to know how to edit programs with Notepad/Notepad++ and compile/run programs from the command line."
       ]
    },
    {
       "q_43": "What is the duration of one laboratory exercise?",
       "answers": [
-         "",
-         ""
+         "The duration of a single laboratory exercise is approximately 110 minutes. It's important to note that these exercises must be completed within the specified time, and there is no opportunity for makeup sessions in case of absence.",
+         "Each laboratory exercise lasts for about 110 minutes.",
+         "The duration of one laboratory exercise is roughly 110 minutes. It is imperative for students to manage their time effectively to complete these exercises within the given time, as there is no possibility for compensation in the event of absence.",
+         "One laboratory exercise takes approximately 110 minutes.",
+         "A laboratory exercise lasts roughly 110 minutes. You must wrap up your work within this timeframe, as there are no alternatives for missed exercises."
       ]
    },
    {
       "q_44": "Are there negative points on laboratory exercises?",
       "answers": [
-         "",
-         ""
+         "Yes, there are negative points on laboratory exercises, but it depends on the type of task. In the multiple-choice questions part, a correct answer earns positive points, an incorrect answer results in negative points, and unanswered questions do not receive negative points. However, in the programming assignments, there are no negative points.",
+         "Indeed, laboratory exercises include negative points, but it varies by task type. When it comes to multiple-choice questions, a correct answer adds positive points, an incorrect answer deducts points, and leaving a question unanswered doesn't result in negative points. However, in the programming assignments, there are no negative points.",
+         " Yes, there are negative points in laboratory exercises, but the scoring depends on the task type. In the multiple-choice questions part, a correct answer earns positive points, an incorrect answer deducts points, and unanswered questions do not lead to negative points. However, in programming assignments, there are no negative points.",
+         "Yes, there are negative points on laboratory exercises, but it depends on the task type. In multiple-choice questions, incorrect answers deduct points, while unanswered questions don't result in negative points. However, in programming assignments, there are no negative points."
       ]
    },
    {
-      "q_45": "What should i do with my code before running it in edgar?",
+      "q_45": "What should i do with my code before running it in Edgar?",
       "answers": [
-         "",
-         ""
+          "To prepare your code for submission in Edgar, you should follow these steps. Begin by writing your program using a text editor like Notepad or Notepad++. Afterward, compile it using the gcc compiler, and be sure to resolve any errors or warnings that may occur during compilation. Next, conduct comprehensive testing of your program against different test cases to verify its correctness. Only after confirming that your solution works well should you copy and paste the code into Edgar.",
+          "Before you submit your code to Edgar, there are specific steps to follow. First, create your program using a text editor such as Notepad or Notepad++. Then, compile it using the gcc compiler and address any errors or warnings that come up during compilation. It's crucial to thoroughly test your program with various examples to make sure it is correct. Once you are confident that your solution is correct, you can copy and paste the code into Edgar.",
+          "Before submitting your code in Edgar, it's essential to prepare it properly. Begin by writing your program using a text editor like Notepad or Notepad++. Then, compile it using the gcc compiler, making sure to address any errors or warnings during compilation. Additionally, thoroughly test your program with various examples to validate its correctness. Only when you are confident that your solution is free from errors should you copy and paste the code into Edgar.",
+          "Before using Edgar, make sure to follow these steps for your code: Write it in a text editor like Notepad or Notepad++, compile it using the gcc compiler, resolve any errors or warnings, and thoroughly test it with different data. Only when you're sure it's correct, copy and paste it into Edgar.",
+          "To prepare your code for Edgar, write it using a text editor like Notepad or Notepad++, compile it with the gcc compiler, fix any errors or warnings, and test it with various data. When you're confident it's working correctly, you can paste it into Edgar."
       ]
    },
    {
@@ -522,64 +545,89 @@
    {
       "q_64": "Does the zavrsni ispit (ZI) have a points threshold?",
       "answers": [
-         "",
-         ""
+         "Zavrsni ispit does have a points threshold and it is 14 points",
+         "Yes, it is 14 points",
+         "Yes, the minimum amount of points you need to pass the Zavrsni ispit is 14 points",
+         "You need to have a minimum of 14 points to pass the exam",
+         "Threshold is 14 points"
       ]
    },
    {
       "q_65": "If I got 23 points on my laboratory exercises, 7 points on my lectures, 35 points on my midterm exam, and 23 points on my final exam, will I pass?",
       "answers": [
-         "",
-         ""
+         "Yes, you will pass",
+         "Yes, you will have 88 points and enough points in each category",
+         "Not only that you will pass, you will have an excellent mark",
+         "According to your input, you will obtain 88 points and that is enough to pass",
+         "You will pass with an excellent mark"
       ]
    },
    {
       "q_66": "What happens if i get 10 points on the final exam?",
       "answers": [
-         "",
-         ""
+         "You will not pass",
+         "You will not pass because the threshold is 14 points",
+         "You will not pass the final exam",
+         "You will not pass the final exam, and you will need to take a classical exam",
+         "Unfortunately, that amount of point will not suffice, and you will fail the exam"
       ]
    },
    {
       "q_67": "How many programming tasks will be on this year's final exam?",
       "answers": [
-         "",
-         ""
+         "There is no information about this topic",
+         "I cannot find the answer to this question",
+         "Unfortunately, I am unable to find the answer",
+         "I do not have enough information to answer this question",
+         "I am sorry, but there is no information concerning this topic"
       ]
    },
    {
       "q_68": "Can teachers organize an extraordinary exam?",
       "answers": [
-         "",
-         ""
+         "There is no information about this topic.",
+         "I can't answer this question.",
+         "Insufficient information is available for me to respond to this question adequately.",
+         "I do not possess enough information to provide a conclusive answer to this question.",
+         "The question cannot be answered thoroughly due to a lack of pertinent details."
       ]
    },
    {
       "q_69": "How many points to lab exercises carry? Do they have a points threshold?",
       "answers": [
-         "",
-         ""
+         "The maximum amount of points is 30 and there is no points threshold",
+         "Most amount points you can score is 30, and there is no lower limit",
+         "You can at max obtain 30 points from lab exercises. There is no point threshold",
+         "Lab exercises carry at max 30 points, and there is no lower limit",
+         "Maximum amount of points is 30, and there is no minimum"
       ]
    },
    {
       "q_70": "Give me the points scale for determining grades.",
       "answers": [
-         "",
-         ""
+         "Anything below 50 points is insufficient, from 50 to 62.5 is sufficient, from 62.5 to 75 is good, from 75 to 87.5 is very good and from 87.5 to 100 is excellent",
+         "<50 = 1, 50-62.5=2, 62.5-75=3, 75-87.5=4, 87.5-100=5",
+         "Grades you can get are 1, 2, 3, 4, 5 with scales <50, 50-62.5, 62.5-75, 75-87.5, 87.5-100 respectively",
+         "According to the provided information, scales go as follows [87.5, 100] Excellent - 5 [75, 87.5) Very good- 4 [62.5, 75) Good - 3 [50, 62.5) Sufficient - 2"
       ]
    },
    {
       "q_71": "List me the recommended literature.",
       "answers": [
-         "",
-         ""
+         "The recommended literature goes as follows: • V. Mornar: Introduction to programming, working version of the textbook • K. N. King, C Programming: A Modern Approach, Second Edition, W. W. Norton & Company • B. W. Kernighan, D. M. Ritchie: The C Programming Language, Second Edition, Englewood Cliffs, NJ: Prentice Hall",
+         "The recommended literature is \"Introduction to programming,\" \"C Programming: A Modern Approach, Second Edition,\" and \"The C Programming Language, Second Edition\"",
+         "The recommended literature is \"Introduction to programming,\" \"C Programming: A Modern Approach, Second Edition,\" and \"The C Programming Language, Second Edition\" and authors are V. Mornar, K. N. King, and B. W. Kernighan, D. M. Ritchie respectively",
+         "Sure, here it is: • V. Mornar: Introduction to programming, working version of the textbook o The textbook covers the complete material of the subject, and even more than that. The textbook will be available on MS Teams as pdf. An integral part of the textbook is the folder Examples with about ninety programs that can be independently translated and run in the command line or in the development environment VSCode. • K. N. King, C Programming: A Modern Approach, Second Edition, W. W. Norton & Company o An extensive work (805 pages) that has been accepted as a textbook at hundreds of universities around the world. • B. W. Kernighan, D. M. Ritchie: The C Programming Language, Second Edition, Englewood Cliffs, NJ: Prentice Hall o A basic book whose authors are the creators of the C programming language from which many generations of programmers have learned the language."
       ]
    },
    {
       "q_72": "Does Marko Horvat author recommended literature?",
       "answers": [
-         "",
-         ""
+         "There is no literature from author Marko Horvat",
+         "I am sorry, I am unable to understand the question",
+         "No, Marko Horvat has no recommended literature",
+         "According to the information given, Marko Horvat has no recommended literature",
+         "No, author Marko Horvat has written no recommended literature"
       ]
    },
    {
