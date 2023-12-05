@@ -23,7 +23,7 @@
     "answer": "You can install the MinGW package by following the steps outlined in the alternative installation method provided earlier. This involves creating a folder where the MinGW files will be placed, downloading the MinGW.zip archive from the file repository, and setting the Path system variable according to the instructions above.",
     "time": 28.45,
     "evaluation": {
-      "bleu_score": 4.6389378761359006e-155
+      "bleu_score": 2.178997940080495e-78
     }
   },
   {
@@ -32,7 +32,7 @@
     "answer": "You cannot install MinGW on a MacOS system as it is only designed for Windows operating systems.",
     "time": 19.34,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 2.1127592104911502e-78
     }
   },
   {
@@ -86,7 +86,7 @@
     "answer": "To set up Visual Studio Code on a Linux operating system, you will need to follow these steps:\n1. Download the installation package from the official Visual Studio Code website.\n2. Once the download is complete, run the installation script with the command `sudo` followed by the name of the installation package (e.g., `sudo installer.sh`).\n3. Follow the on-screen instructions to complete the installation process.\n4. After the installation is complete, you can launch Visual Studio Code from the terminal by typing `code`.\nNote: If you encounter any issues during the installation process, you may need to consult the official Visual Studio Code documentation or seek help from a Linux community forum.",
     "time": 49.66,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 5.3423926580444715e-79
     }
   },
   {

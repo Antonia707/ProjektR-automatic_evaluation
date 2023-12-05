@@ -14,7 +14,7 @@ for filename in os.listdir(dir):
     file_path = os.path.join(dir, filename)
         
     with open(file_path, 'r') as file:
-        print(filename)
+        #print(filename)
         llmAnswers = json.load(file)
 
     for i in range(len(llmAnswers)):

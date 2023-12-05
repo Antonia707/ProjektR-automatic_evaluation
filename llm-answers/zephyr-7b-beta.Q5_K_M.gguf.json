@@ -23,7 +23,7 @@
     "answer": "1. Create a folder called \"MinGW\" on your computer (e.g. C:\\MinGW\\)\n2. Download the MinGW.zip archive from the file repository and unpack it into the folder created above\n3. Follow the instructions for setting the Path system variable provided in previous chapters to complete the installation process.",
     "time": 28.4,
     "evaluation": {
-      "bleu_score": 4.071492178318985e-155
+      "bleu_score": 1.1317704983611876e-231
     }
   },
   {
@@ -32,7 +32,7 @@
     "answer": "To install MinGW on a MacOS computer, you can use the Homebrew package manager. Here's how:\n1. Open the Terminal application (located in the Utilities folder inside the Applications folder)\n2. Type the following command to update Homebrew:\n   ```\n   brew update\n   ```\n3. Install MinGW using the following command:\n   ```\n   brew install mingw-w64\n   ```\n4. After installation, you can verify that MinGW is installed by running the following command:\n   ```\n   mingw-w64 --version\n   ```\n5. If the installation was successful, you should see the version number of MinGW displayed in the Terminal window.\nNote: This method only installs the MinGW compiler toolchain for x86_64 architecture (also known as 64-bit or amd64). To use MinGW with other architectures, you may need to follow a different installation process.",
     "time": 52.43,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 3.518840651343588e-155
     }
   },
   {
@@ -86,7 +86,7 @@
     "answer": "To set up Visual Studio Code on a Linux operating system, follow these steps:\n1. Download the appropriate installation package from the official website (https://code.visualstudio.com/download).\n2. Open a terminal window and navigate to the downloaded file.\n3. Run the following command to install Visual Studio Code:\n   ```\n   sudo apt-get update\n   sudo apt-get install code\n   ```\n4. After installation, open Visual Studio Code by running the following command:\n   ```\n   code .\n   ```\n5. To create a new project, click on \"File\" > \"New File/Project\".\n6. Select the programming language you want to use and follow the prompts to set up your project.\n7. To debug your code, click on the \"Debug\" icon in the left-hand menu or press F5.\n8. Follow the prompts to configure your debugger settings.\n9. Run your program by clicking on the \"Run\" icon (the green arrow) or pressing Ctrl+F5.\n10. Visual Studio Code will automatically detect and highlight errors in your code, making it finds them as you can help you write",
     "time": 67.05,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 9.955850910221242e-79
     }
   },
   {

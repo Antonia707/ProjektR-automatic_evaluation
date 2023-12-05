@@ -23,7 +23,7 @@
     "answer": "You can install the MinGW package by following these steps:\n1. Create a folder where the MinGW files will be placed (eg C:\\MinGW\\)\n2. Download the MinGW.zip archive from the file repository and unpack it into the folder created above\n3. Set the Path system variable according to the instructions above",
     "time": 30.9,
     "evaluation": {
-      "bleu_score": 5.03113134736154e-155
+      "bleu_score": 1.9896317871306953e-78
     }
   },
   {
@@ -32,7 +32,7 @@
     "answer": "MinGW is not officially supported on MacOS, but you can use a tool called Xcode Command Line Tools to compile C/C++ code on your Mac. To install it, follow these steps:\n1. Open the App Store app on your Mac.\n2. Search for \"Xcode Command Line Tools\" in the search bar at the top of the screen.\n3. Click the \"Get\" button next to the Xcode Command Line Tools app.\n4. Wait for the installation to complete. This may take a few minutes.\n5. Once the installation is complete, you can use the Xcode Command Line Tools to compile C/C++ code on your Mac.",
     "time": 41.57,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.0832677820940877e-231
     }
   },
   {
@@ -86,7 +86,7 @@
     "answer": "Visual Studio Code can be installed on a Linux operating system by following these steps:\n1. Open a terminal window on your Linux machine.\n2. Run the following command to download the installation package:\n   ```\n   curl -sSL https://code.visualstudio.com/sh/install | sh -\n   ```\n3. Follow the prompts to complete the installation process.\n4. Once the installation is complete, you can launch Visual Studio Code by running the following command in the terminal:\n   ```\n   code .\n   ```\nThis will open Visual Studio Code in your current directory. You can then use the character interface (command line) of the operating system to navigate and interact with Visual Studio Code.",
     "time": 53.73,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 5.88082628502336e-79
     }
   },
   {

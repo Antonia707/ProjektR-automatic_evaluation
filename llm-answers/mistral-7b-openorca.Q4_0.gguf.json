@@ -23,7 +23,7 @@
     "answer": "To install the MinGW package, follow these steps:\n1. Create a folder on your computer (e.g., C:\\MinGW\\)\n2. Download the MinGW.zip archive from the file repository and unpack it into the folder created above\n3. Set the Path system variable according to the instructions provided",
     "time": 24.78,
     "evaluation": {
-      "bleu_score": 4.842967876203676e-155
+      "bleu_score": 1.3830398867725974e-78
     }
   },
   {
@@ -32,7 +32,7 @@
     "answer": "To install MinGW on a Mac, you can use Homebrew, which is a package manager for macOS. Follow these steps:\n1. Install Homebrew if not already installed by running `/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)\"` in your terminal.\n2. Update Homebrew with `brew update`.\n3. Install MinGW-w64 using `brew install mingw-w64`.\n4. Set the Path system variable according to the instructions above.",
     "time": 32.93,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 3.4926101810212716e-155
     }
   },
   {
@@ -86,7 +86,7 @@
     "answer": "To set up Visual Studio Code on a Linux operating system, follow these steps:\n1. Download the Visual Studio Code installer from the official website (https://code.visualstudio.com/).\n2. Open your terminal and navigate to the directory where you want to install VSCode.\n3. Run the following command to install VSCode: `sudo snap install code --classic`\n4. Once installed, open Visual Studio Code by typing \"code\" in your terminal and pressing Enter.\n5. You can now use VSCode for coding in various programming languages with the help of extensions.\n6. To install an extension, click on the Extensions icon (like a star) at the bottom left corner of the VSCode window. Search for the desired extension, click on it, and then click Install.\n7. Restart VSCode if necessary after installing the extension.\n8. You can also customize your workspace settings by clicking on File > Preferences > Settings or using the keyboard shortcut Ctrl + , (comma).\n9. To set up a debugger, you can use the built-in Debugger for VS for VS for VS for V",
     "time": 65.38,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.027955932830589406
     }
   },
   {

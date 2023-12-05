@@ -23,7 +23,7 @@
     "answer": "To install the MinGW package, create a folder where the files will be placed (eg C:\\MinGW\\), download the MinGW.zip archive from the file repository, unpack it into the folder created above, and set the Path system variable according to the instructions above.",
     "time": 26.48,
     "evaluation": {
-      "bleu_score": 4.010740433502895e-155
+      "bleu_score": 1.4582931377821638e-78
     }
   },
   {
@@ -32,7 +32,7 @@
     "answer": "Unfortunately, this guide is specifically for Windows operating systems. For MacOS, you can use Xcode or Homebrew to install GCC and other tools. Here's a link to Apple's documentation on how to do it: https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/GettingStarted/GettingStarted.html#//apple_ref/doc/uid_TP40013257-CH1-SW1",
     "time": 35.33,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 4.1310455662878525e-155
     }
   },
   {
@@ -86,7 +86,7 @@
     "answer": "To set up Visual Studio Code on a Linux operating system, follow these steps:\n1. Download the installation package from the official website (https://code.visualstudio.com/download) or use your preferred package manager to install it.\n2. Once installed, open VSCode and create a new project or open an existing one.\n3. To debug code in VSCode, you'll need to install a debugger for the language you're using. For example, if you're working with Python, you can install the Python extension and the pdb debugger.\n4. To use the character interface (command line) on Linux, open a terminal window by pressing Ctrl+Alt+T or searching for \"Terminal\" in your application menu.\n5. In the terminal, navigate to the directory containing your project using the cd command followed by the path to the directory. For example:\n   ```\n   $ cd /path/to/project\n   ```\n6. To run your code from the terminal, use the appropriate command for your language. For example, if you're working with Python, you can run it using the python3 command followed by typing followed by executable.ex",
     "time": 67.25,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.2403483675999674e-78
     }
   },
   {

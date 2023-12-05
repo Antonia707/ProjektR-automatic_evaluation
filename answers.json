@@ -84,29 +84,40 @@
    {
       "q_11": "Give me the basics of using a debugger in Visual Studio Code.",
       "answers": [
-         "",
-         ""
+         "Effectively utilizing a debugger in Visual Studio Code involves a structured process to monitor and analyze program execution. Initiate the debugging journey by strategically placing breakpoints in your source code file, such as program.c, where you want the execution to pause.  Click at the beginning of the line to set a breakpoint at the desired location. Following the  compilation of your program, execute it to observe halts at the breakpoints you've defined. During these pauses, inspect variable values by hovering over their names. It's important to note that uninitialized variables may exhibit unexpected values during this examination. To further navigate trough the program, familiarize yourself with the debugger toolbar icons, including Continue, Step Over, Step Into, Step Out, Restart, and Stop. Each icon corresponds to a fundamental command and is associated with a convenient keyboard shortcut. Gain additional insights into the program's state by checking the Locals window while paused. In larger programs, be aware that some variables may disappear from this window. To address this, you can add variables or expressions to the Watch window for constant monitoring, especially when dealing with variables not in the immediate surrounding of the current statement. Execute specific debugger commands based on your debugging needs: Continue running to the end or the next breakpoint (Continue, F5) Execute the next statement without entering the function code (Step Over, F10) Execute the next statement entering the function code (Step Into, F11) Exit the current function (Step Out, Shift-F11) Restart the program with recompilation (Restart, Ctrl-Shift-F5) Stop the program (Stop, Shift-F5) If the current statement involves a function call, you can use the Step Into action to enter the function code. However, this is typically necessary only in specific scenarios. Conversely, the Step Out action allows you to exit the current function and execute the remaining commands within that function. In summary, these steps, including setting breakpoints, provide a comprehensive guide for effectively utilizing the debugger in Visual Studio Code, allowing you to monitor and analyze the execution of your program with precision.",
+         "Effectively leveraging a debugger in Visual Studio Code requires a systematic approach to monitor and analyze program execution. Initiate the debugging process by strategically placing breakpoints in your source code file, such as program.c, where you wish the execution to pause. Set a breakpoint by clicking at the beginning of the line in the desired location. After compiling your program, execute it to witness pauses at the defined breakpoints. During these pauses, scrutinize variable values by hovering over their names. It's crucial to be mindful that uninitialized variables may display unexpected values during this examination. To navigate through the program seamlessly, acquaint yourself with the debugger toolbar icons, encompassing Continue, Step Over, Step Into, Step Out, Restart, and Stop. Each icon corresponds to a fundamental command and comes with a convenient keyboard shortcut. To delve deeper into the program's state, inspect the Locals window while paused. In more extensive programs, be cautious as some variables may vanish from this window. Counteract this by adding variables or expressions to the Watch window for constant monitoring, particularly when dealing with variables not immediately surrounding the current statement. Execute debugger commands tailored to your debugging needs: Continue running to the end or the next breakpoint (Continue, F5) Execute the next statement without entering the function code (Step Over, F10) Execute the next statement entering the function code (Step Into, F11) Exit the current function (Step Out, Shift-F11) Restart the program with recompilation (Restart, Ctrl-Shift-F5) Stop the program (Stop, Shift-F5) In situations involving a function call within the current statement, employ the Step Into action to enter the function code. However, this is typically necessary only in specific scenarios. Conversely, the Step Out action facilitates exiting the current function, executing the remaining commands within that function. In summary, these steps, encompassing breakpoint setting, offer a comprehensive guide for effectively utilizing the debugger in Visual Studio Code. This approach enables precise monitoring and analysis of your program's execution.",
+         "Effectively utilizing a debugger in Visual Studio Code necessitates a systematic approach to monitor and analyze program execution. Begin the debugging process by strategically placing breakpoints in your source code file, like program.c, where you intend the execution to pause. Click at the line's beginning to set a breakpoint in the desired location. After compiling your program, execute it to observe halts at the designated breakpoints. During these pauses, carefully inspect variable values by hovering over their names. It's crucial to be attentive, as uninitialized variables may present unexpected values during this examination. To seamlessly navigate through the program, familiarize yourself with the debugger toolbar icons, covering Continue, Step Over, Step Into, Step Out, Restart, and Stop. Each icon corresponds to a fundamental command, accompanied by a convenient keyboard shortcut. To gain deeper insights into the program's state, examine the Locals window while paused. In more extensive programs, exercise caution, as some variables may disappear from this window. Address this by adding variables or expressions to the Watch window for constant monitoring, especially when dealing with variables not immediately surrounding the current statement. Execute debugger commands tailored to your debugging needs: Continue running to the end or the next breakpoint (Continue, F5) Execute the next statement without entering the function code (Step Over, F10) Execute the next statement entering the function code (Step Into, F11) Exit the current function (Step Out, Shift-F11) Restart the program with recompilation (Restart, Ctrl-Shift-F5) Stop the program (Stop, Shift-F5) In situations involving a function call within the current statement, utilize the Step Into action to enter the function code. However, this is typically necessary only in specific scenarios. Conversely, the Step Out action facilitates exiting the current function, executing the remaining commands within that function. In summary, these steps, which encompass setting breakpoints, provide a comprehensive guide for effectively leveraging the debugger in Visual Studio Code. This approach facilitates precise monitoring and analysis of your program's execution.",
+         "Effectively utilizing a debugger in Visual Studio Code entails a systematic approach to monitor and analyze program execution. Initiate the debugging process by strategically placing breakpoints in your source code file, such as program.c, at locations where you intend the execution to pause. Set a breakpoint by clicking at the line's beginning in the desired location. After compiling your program, execute it to observe halts at the breakpoints you've defined. During these pauses, meticulously scrutinize variable values by hovering over their names. It's crucial to be mindful that uninitialized variables may exhibit unexpected values during this examination. To navigate through the program seamlessly, familiarize yourself with the debugger toolbar icons, encompassing Continue, Step Over, Step Into, Step Out, Restart, and Stop. Each icon corresponds to a fundamental command, and each is associated with a convenient keyboard shortcut. In addition to the debugging toolbar, gain deeper insights into the program's state by inspecting the Locals window while paused. In larger programs, exercise caution, as some variables may disappear from this window. To address this, add variables or expressions to the Watch window for constant monitoring, especially when dealing with variables not immediately surrounding the current statement. Execute debugger commands tailored to your debugging needs: Continue running to the end or the next breakpoint (Continue, F5) Execute the next statement without entering the function code (Step Over, F10) Execute the next statement entering the function code (Step Into, F11) Exit the current function (Step Out, Shift-F11) Restart the program with recompilation (Restart, Ctrl-Shift-F5) Stop the program (Stop, Shift-F5)In situations involving a function call within the current statement, employ the Step Into action to enter the function code. However, this is typically necessary only in specific scenarios. Conversely, the Step Out action facilitates exiting the current function, executing the remaining commands within that function. The debugger's capabilities offer a comprehensive guide for effectively leveraging Visual Studio Code's debugging features. This approach enables precise monitoring and analysis of your program's execution, ensuring a thorough understanding of its behavior."
       ]
    },
    {
       "q_12": "What is step out action?",
       "answers": [
-         "",
-         ""
+         "The step-out action in the context of a debugger refers to a command, specifically Shift-F11, which allows you to exit the current function during the debugging process. This action lets the program continue execution outside the current function, executing the remaining commands within that function.",
+         "When using a debugger, the step-out action, activated by pressing Shift-F11, is a command designed to exit the current function. It enables the program to proceed with executing the remaining commands within the function, providing a means to navigate out of the current function scope.",
+         "In the debugger's toolkit, the step-out action, accessible through the Shift-F11 shortcut, is a command that allows you to gracefully exit the current function during the debugging process. By doing so, the debugger executes the remaining commands within the function, providing a way to step out of the current function's context.",
+         "The step-out action, denoted by the Shift-F11 keyboard shortcut in the debugger, is a command that facilitates the exit from the current function. This action allows the debugger to execute the remaining commands within the function, providing a streamlined way to move beyond the confines of the current function during the debugging process.",
+         "Within the realm of debugging, the step-out action is a command triggered by pressing Shift-F11. This command serves the purpose of exiting the current function, allowing the debugger to execute the remaining commands within that function. Essentially, it provides a mechanism to step out of the current function's scope and continue with the program's execution."
       ]
    },
    {
       "q_13": "When should I use step in action in vscode?",
       "answers": [
-         "",
-         ""
+         "The 'Step in' action in Visual Studio Code's debugger, triggered by the F11 key, should be used when you want to enter the function code of the next statement during the debugging process. It allows you to delve into the details of the function's implementation, which can be beneficial for understanding the inner workings of your code.",
+         "Use the 'Step in' action in Visual Studio Code (activated by pressing F11) when you encounter a function call within the current statement during debugging. This action allows you to enter the function code and inspect its internal workings, providing a more granular understanding of the code execution.",
+         "The 'Step in' action (F11) in Visual Studio Code is beneficial when you want to explore the details of a function's code during debugging. Use it when you encounter a function call within the current statement, allowing you to step into the function and inspect its implementation step by step.",
+         "Employ the 'Step in' action (F11) in Visual Studio Code when you wish to dive into the details of a function's code during debugging. This action is particularly useful when the current statement involves a function call, providing an opportunity to step into the function and analyze its internal logic.",
+         "The 'Step in' action in Visual Studio Code, executed by pressing F11, is utilized when you want to enter the function code of the next statement in your debugging process. This action is valuable when dealing with function calls within the current statement, allowing you to inspect and understand the internal workings of the called function."
       ]
    },
    {
       "q_14": "How can I tell if my program file is executable or not?",
       "answers": [
-         "",
-         ""
+         "To determine if your program file is executable, check the file extension. In Windows, executable files typically have the .exe extension, while in Unix/Linux, there's no strict extension format. An executable program file has undergone the translation and linking process, resulting in machine code that the operating system can directly run.",
+         "You can identify whether your program file is executable by examining its extension. In Windows, executable files often end with .exe, while Unix/Linux systems don't adhere to a prescribed extension format. Executability implies that the program has been through the compiler and linker, producing machine code ready for direct execution by the operating system.",
+         "Check the file extension to ascertain if your program is executable. On Windows, executable files generally end with .exe, while Unix/Linux doesn't enforce a specific extension format. Executable files have undergone translation and linking, enabling them to be directly run by the operating system.",
+         "Identifying the executability of your program involves inspecting its file extension. In Windows, executable files are commonly denoted by the .exe extension, while Unix/Linux systems lack a strict extension format. Executable programs have undergone compilation and linking, rendering them directly runnable by the operating system.",
+         "To discern whether your program file is executable, examine its file extension. Windows executable files conventionally end with .exe, while Unix/Linux doesn't prescribe a specific extension format. Executable files have undergone translation and linking, making them directly runnable by the operating system."
       ]
    },
    {
@@ -119,22 +130,31 @@
    {
       "q_16": "Is creating a universal Makefile really needed?",
       "answers": [
-         "",
-         ""
+         "Developing the universal Makefile is at the discretion of the user; it's not obligatory.",
+         "Crafting the universal Makefile is a voluntary decision, and it is not mandatory.",
+         "The universal Makefile is not compulsory; its creation is left to the user's discretion.",
+         "Creating a universal Makefile is not a necessity; it is an elective choice for the user.",
+         "Creating the universal Makefile is an optional choice and is not required."
       ]
    },
    {
       "q_17": "Which is better to use Vsc or Notepad?",
       "answers": [
-         "",
-         ""
+         "Using Notepad is suitable for simple programs, while Visual Studio Code (VSC) is recommended for more complex projects. Therefore, the choice between VSC and Notepad depends on the complexity of the programming task.",
+         "Notepad is a basic text editor, useful for simple code editing. On the other hand, VSC is described as an Integrated Development Environment (IDE), offering features such as debugging, extensions, and a more advanced environment for programming tasks.",
+         "VSC is useful for more complex programs consisting of multiple source files. Therefore, when dealing with larger projects that involve multiple files, VSC becomes a preferable choice over Notepad.",
+         "Notepad can be used for introductory programming tasks. However, it also highlights that VSC provides a more enhanced experience with features like debugging and extensions, making it a better choice for a more comprehensive development experience.",
+         "VSC offers automatic code formatting settings and the ability to format code on save. This feature enhances code readability and maintenance, making VSC a better choice for those who prioritize well-formatted code."
       ]
    },
    {
       "q_18": "How do I enable the VSC extension for C/C++ code formatting?",
       "answers": [
-         "",
-         ""
+         "To enable the VSC extension for C/C++ code formatting, you can use the command Alt-Shift-F. This keyboard shortcut triggers the code formatting provided by the extension.",
+         "The automatic code formatting while saving changes can be enabled by going to File/Preferences/Settings. In the settings, search for \"formatOnSave\" and click on the pencil icon in the line editor. Set the value to true to enable automatic code formatting when saving files.",
+         "You can configure the formatting settings at the user level by accessing User settings. This makes the setting valid in any project/folder. Search for the desired setting, such as \"formatOnSave,\" and set it to true",
+         "You can configure the formatting settings at the folder or workspace level. Access Workspace settings and make the necessary changes. These settings will only be valid in the current folder",
+         "For more specific formatting configurations, you can create a file named .clang-format in the folder containing the source code. Define settings such as \"IndentWidth: 3\" in this file to determine the depth of indentation. This allows for a more customized formatting style"
       ]
    },
    {
@@ -154,43 +174,61 @@
    {
       "q_21": "Which code looks better:#include <stdio.h>\nint main(void) { if\n(1) { printf (\"1\"); } else { \nprintf (\"2\"); }} \n\n or\n\n#include <stdio.h>\n\nint main(void) {\n   if (1) {\n      printf(\"1\");\n   } else {\n      printf(\"2\");\n   }\n}",
       "answers": [
-         "",
-         ""
+         "The second code snippet looks better.",
+         "Though both code snippets would be compiled fully, the second one is better formatted and therefore looks better.",
+         "The second code snippet would be considered more readable as it adheres to common coding style conventions more than the first one.",
+         "The second code snippet is generally considered more readable and adheres to common coding style conventions. Proper indentation and consistent formatting make the code easier to understand, both for the original author and for anyone else who might read or maintain the code.",
+         "Of the two code snippets offered, the second one would be considered better formatted."
       ]
    },
    {
       "q_22": "Which platform is used for performing laboratory exercises and exams?",
       "answers": [
-         "",
-         ""
+         "The platform used for performing laboratory exercises and exams is Edgar.",
+         "Laboratory exercises and exams are held on the platform Edgar.",
+         "The platform used for performing laboratory exercises and exams is Edgar. You can access the Edgar system at:   https://edgar.fer.hr/.",
+         "The Edgar system is used for automatic assessment of tests of theoretical and practical knowledge of the course Introduction to Programming.",
+         "The Edgar system is used for automatic assessment of tests of theoretical and practical knowledge of the course Introduction to Programming. You can access the Edgar system at:   https://edgar.fer.hr/."
       ]
    },
    {
       "q_23": "What do I use to log in into Edgar?",
       "answers": [
-         "",
-         ""
+         "The username and password from the AAI-Edu system are used to log in to the system.",
+         "You should log into Edgar using the username and password from the AAI-Edu system.",
+         "The username and password from the AAI-Edu system should be used for logging into the Edgar system.",
+         "The username and password from the AAI-Edu system are used to log in to the system. You can access this login mode by clicking on \"login here using AAI\".",
+         "The username and password from the AAI-Edu system are used to log in to the system. You can access this login mode by clicking on \"login here using AAI\". Then you need to enter the AAI username and password in the login fields and click \"PRIJAVA\"."
       ]
    },
    {
       "q_24": "Can I use official reminders on exams and laboratory exercises?",
       "answers": [
-         "",
-         ""
+         "You can use official reminders on exams and laboratory exercises.",
+         "Official cheat-sheet printed on paper may be used in laboratory exercises and exams.",
+         "Official cheat-sheet printed on paper may be used in laboratory exercises and exams. It will also be available in Edgar as a last question in the laboratory exercises and exams.",
+         "You can use the official cheat-sheet printed on exams and laboratory exercises.",
+         "You can use the official cheat-sheet printed on exams and laboratory exercises. It will also be available in Edgar as a last question in the laboratory exercises and exams."
       ]
    },
    {
       "q_25": "How to take the exam from last year at edgar?",
       "answers": [
-         "",
-         ""
+         "You can access last years exam on the front page. It will be available under \"Public exams\".",
+         "You can access last years exam on the front page. This test is not graded and can be run an unlimited number of times.",
+         "For the purpose of practice a demo test has been defined. This test is not graded and can be run an unlimited number of times. The password is not needed. The test is available under \"Public exams\".",
+         "To practice working with the system at home, a demo test has been defined. This test is not graded and can be run an unlimited number of times. The password is not needed. The test is available on the front page under \"Public exams\".",
+         "You can access last years exam on the front page. It will be available under \"Public exams\". This test is not graded and can be run an unlimited number of times."
       ]
    },
    {
       "q_26": "If there are multiple test cases for a task, will every test case be worth the same amount of points?",
       "answers": [
-         "",
-         ""
+         "Each test case will be worth a different amount of points depending on how important it is.",
+         "Each test case will be worth a different amount of points depending on how important it is. together all the cases will add up to a 100%",
+         "If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task.",
+         "You will be awarded the amount of points that was predetermined for the test cases you solve correctly.",
+         "Not every test case is worth the same amount of points. Some are considered more important and are therefore worth more."
       ]
    },
    {
