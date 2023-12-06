@@ -414,7 +414,11 @@
       "q_48": "If I have 0 points from lab excercises, can I pass with a grade of 5?",
       "answers": [
          "No, it's not possible to pass with a grade of 5 if you have 0 points from laboratory exercises. The conditions for obtaining a passing grade based on continuous assessment require a minimum of 14 points out of 35 possible on the final exam and a total of at least 50 points overall.",
+<<<<<<< HEAD
          "Achieving a grade of 5 is unfeasible with 0 points from laboratory exercises. To pass, you must secure at least 14 points on the final exam and accumulate a total of 50 points or more, including lab exercise points.",
+=======
+         " Achieving a grade of 5 is unfeasible with 0 points from laboratory exercises. To pass, you must secure at least 14 points on the final exam and accumulate a total of 50 points or more, including lab exercise points.",
+>>>>>>> e556d29d437257aef7f01cf74248c7e95bb402a2
          "With 0 points in laboratory exercises, obtaining a grade of 5 is not achievable. The passing criteria demand at least 14 points on the final exam, with an overall score of 50 points, including lab exercise points.",
          "It's impossible to attain a grade of 5 if you score 0 points in laboratory exercises. Passing the course requires a minimum of 14 points on the final exam and a total score of 50 points, inclusive of laboratory exercise points​​."
       ]
