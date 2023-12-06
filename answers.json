@@ -390,64 +390,82 @@
    {
       "q_46": "Where can I find the schedule of the laboratory exercises?",
       "answers": [
-         "",
-         ""
+         "The schedule for the laboratory exercises in the \"Introduction to Programming\" course, including dates, topics, and the number of program tasks per exercise, along with the maximum number of points achievable in each, will be made available on the Microsoft Teams platform. This information will be published at least a week prior to the exercises.",
+         "Students can find the detailed schedule for laboratory exercises, which specifies the dates, topics, number of tasks, and maximum points for each exercise, on the Microsoft Teams platform. This schedule will be posted with at least a week's notice before the commencement of the exercises.",
+         "The \"Introduction to Programming\" course provides the laboratory exercise schedule, covering dates, topics, and tasks per exercise, as well as the maximum points per exercise, on the Microsoft Teams platform. This schedule is published at least one week in advance of the exercises.",
+         "For the laboratory exercises of the \"Introduction to Programming\" course, the complete schedule, including exercise dates, topics, number of tasks, and the maximum points, is accessible on the Microsoft Teams platform. This information is reliably published at least a week before the exercises start​​."
       ]
    },
    {
       "q_47": "How many parts does the laboratory excercise have and list them.",
       "answers": [
-         "",
-         ""
+         "The laboratory exercise in the \"Introduction to Programming\" course is divided into two distinct parts. The first part involves solving multiple-choice questions, where students must choose the correct answer from several options. The second part is the creation of one or more programs, which includes tasks related to algorithm design, coding, and testing.",
+         "In the laboratory exercises of this course, students engage in two main activities. First, they tackle multiple-choice questions, selecting the correct answers from a range of options. Secondly, they participate in programming assignments that encompass the design, coding, and testing of algorithms.",
+         "The \"Introduction to Programming\" course's lab exercises consist of two primary components. The initial component is comprised of multiple-choice questions where students have to identify the correct answers. The subsequent component involves the development of one or more programs, focusing on algorithm design, coding, and testing.",
+         "Laboratory exercises within the course are structured into two sections. The first involves answering multiple-choice questions, requiring the selection of the correct answer from provided options. The second section is dedicated to the creation and development of programs, which includes tasks like algorithm design, coding, and testing​​."
       ]
    },
    {
       "q_48": "If I have 0 points from lab excercises, can I pass with a grade of 5?",
       "answers": [
-         "",
-         ""
+         "No, it's not possible to pass with a grade of 5 if you have 0 points from laboratory exercises. The conditions for obtaining a passing grade based on continuous assessment require a minimum of 14 points out of 35 possible on the final exam and a total of at least 50 points overall.",
+         " Achieving a grade of 5 is unfeasible with 0 points from laboratory exercises. To pass, you must secure at least 14 points on the final exam and accumulate a total of 50 points or more, including lab exercise points.",
+         "With 0 points in laboratory exercises, obtaining a grade of 5 is not achievable. The passing criteria demand at least 14 points on the final exam, with an overall score of 50 points, including lab exercise points.",
+         "It's impossible to attain a grade of 5 if you score 0 points in laboratory exercises. Passing the course requires a minimum of 14 points on the final exam and a total score of 50 points, inclusive of laboratory exercise points​​."
       ]
    },
    {
       "q_49": "What are my options for consultations?",
       "answers": [
-         "",
-         ""
+         "For consultations in the \"Introduction to Programming\" course, students can schedule times to discuss with the teacher through the MS Teams platform. The teacher is available to further explain course materials during these consultations.",
+         "Students have the option to arrange consultations with their teacher using the MS Teams platform. These sessions are intended for additional explanations of the course content.",
+         "The course offers consultation sessions with the teacher, which can be scheduled on the MS Teams platform. During these sessions, the teacher will provide further clarifications on the study material.",
+         "Consultation opportunities in this course involve arranging sessions with the teacher via MS Teams, where the teacher will provide additional insights into the course material​​."
       ]
    },
    {
       "q_50": "During consultations, I ask the teacher to teach me through the material?",
       "answers": [
-         "",
-         ""
+         "During consultations, the teacher will provide additional explanations on the course material but will not teach it again from scratch. Consultations are designed to clarify specific doubts or provide further understanding, not to cover the entire material anew.",
+         "In consultation sessions, the teacher is available to elaborate on and clarify the material, but they won't reteach it entirely. These sessions are meant to assist with understanding specific aspects of the course content, rather than revisiting all the material.",
+         "While the teacher is willing to offer further explanations on study material during consultations, they will not reteach the material entirely. The purpose of these sessions is to help clear up any specific areas of confusion, not to provide a complete re-lecture of the content.",
+         "Consultations with the teacher allow for additional explanations of the course material, but do not include a complete re-teaching of the material. These sessions are intended for deeper clarification on particular topics rather than a full review of all course content​​."
       ]
    },
    {
       "q_51": "Can employees of another university hold consultations?",
       "answers": [
-         "",
-         ""
+         "The \"Student Guide\" for the \"Introduction to Programming\" course does not specify if employees from other universities are permitted to conduct consultations. While it's possible, it seems unlikely, as the guide only references consultations with the course's own teacher.",
+         "While it's theoretically possible for employees of another university to hold consultations for this course, the \"Student Guide\" provides no direct information on this matter. It primarily focuses on consultations with the assigned course teacher.",
+         "There is no clear indication in the \"Student Guide\" about employees from other universities conducting consultations for the course. While not explicitly stated as impossible, the guide suggests that consultations are typically held by the course teacher.",
+         "The possibility of employees from other universities holding consultations for the course isn't addressed in the \"Student Guide.\" Although such a scenario might be feasible, the guide primarily mentions consultations with the course's designated teacher."
       ]
    },
    {
       "q_52": "How many tests does the continuous monitoring of classes require?",
       "answers": [
-         "",
-         ""
+         "The continuous assessment process in the \"Introduction to Programming\" course requires students to take two written exams: a midterm exam and a final exam.",
+         "For continuous monitoring, students are required to complete two exams: the midterm and the final exam, as part of the course's assessment process.",
+         "There are two key exams for continuous monitoring in this course: the midterm exam and the final exam, both of which are written assessments.",
+         "The course's continuous assessment includes two main tests: a midterm exam and a final exam, both in written format​​."
       ]
    },
    {
       "q_53": "Give me information about how the knowledge tests work.",
       "answers": [
-         "",
-         ""
+         "Knowledge tests in the \"Introduction to Programming\" course consist of two written exams: a midterm exam and a final exam. These exams include a variety of tasks, some of which are questions, others require choosing the correct answer, but most tasks involve solving problems using the C programming language. The exams are conducted on computers at FER, and while initially graded by the Edgar system, final points are determined by teachers after reviewing student solutions.",
+         "The course's knowledge tests are structured as two main written exams, the midterm and the final. The exams feature tasks that range from answering questions, choosing correct answers, to solving programming problems in C. Conducted at FER on computers, the exams are initially graded by Edgar, but teachers provide the final points after reviewing the solutions. It's important to note that there is no makeup for missed exams.",
+         "In this course, students undergo two written exams for knowledge testing: the midterm and the final exam. These exams comprise tasks that include standard questions, multiple-choice questions, and primarily, problem-solving in C programming. Held at FER on computers, the exams' initial grades from Edgar are not final; teachers assign final points after evaluating student solutions. Absences in these exams cannot be compensated.",
+         "For knowledge assessment, students take two written exams: a midterm and a final. These exams involve various tasks, like answering questions, selecting correct answers, and predominantly solving programming issues in C. Exams are computer-based at FER and initially graded by Edgar. However, the final grading is done by teachers who review each solution. Note that there are no compensations for absences in these exams​​."
       ]
    },
    {
       "q_54": "What happens if I do not pass the course during the continuous monitoring of classes?",
       "answers": [
-         "",
-         ""
+         "If a student does not pass the \"Introduction to Programming\" course during the continuous monitoring period, they have the option to take one or more classical exams. These exams are similar to the midterm and final exams but are generally more comprehensive.",
+         "In the event of not passing the course through continuous monitoring, students can sit for classical exams. These exams, which are akin to the midterm and final exams, are typically more detailed and extensive.",
+         "Students who don't achieve a passing grade during the continuous assessment of the course have the opportunity to take classical exams. These exams are structured similarly to the midterm and final exams, yet they cover more material.",
+         "For students who fail to pass during the continuous monitoring phase, the course offers the alternative of taking classical exams. These exams are comparable in format to the midterm and final exams but tend to be more thorough​​."
       ]
    },
    {
