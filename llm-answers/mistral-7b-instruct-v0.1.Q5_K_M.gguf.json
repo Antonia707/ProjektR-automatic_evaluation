@@ -5,7 +5,40 @@
     "answer": "A compiler translates source code into machine code (usually with the extension .o), which cannot yet be executed because they do not yet exist in it. Linking is done by a program called a linker, which merges all necessary object code files with pre-prepared program files. Libraries are used to provide standard functions and variables that can be linked into executable code.",
     "time": 48.0,
     "evaluation": {
-      "bleu_score": 3.3825313823926018e-155
+      "bleu_score": 3.3825313823926018e-155,
+      "rouge_score": {
+        "precision": 0.10052910052910052,
+        "recall": 0.2510683760683761,
+        "f1": 0.14352748719273323
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -14,7 +47,40 @@
     "answer": "MinGW is a free software development environment for Windows that provides tools for developing applications in C, C++, and other programming languages. It includes a compiler, linker, debugger, and other utilities needed to build programs.",
     "time": 24.97,
     "evaluation": {
-      "bleu_score": 3.655093752249116e-78
+      "bleu_score": 3.655093752249116e-78,
+      "rouge_score": {
+        "precision": 0.2571428571428571,
+        "recall": 0.33035714285714285,
+        "f1": 0.2862473347547974
+      },
+      "diversity": 0.9705882352941176,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -23,7 +89,40 @@
     "answer": "You can install the MinGW package by following these steps:\n1. Create a folder where the MinGW files will be placed (eg C:\\MinGW\\)\n2. Download the MinGW.zip archive from the file repository and unpack it into the folder created above\n3. Set the Path system variable according to the instructions above",
     "time": 30.9,
     "evaluation": {
-      "bleu_score": 1.9896317871306953e-78
+      "bleu_score": 1.9896317871306953e-78,
+      "rouge_score": {
+        "precision": 0.1320754716981132,
+        "recall": 0.3035877166311949,
+        "f1": 0.18393071285809462
+      },
+      "diversity": 0.98,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -32,7 +131,40 @@
     "answer": "MinGW is not officially supported on MacOS, but you can use a tool called Xcode Command Line Tools to compile C/C++ code on your Mac. To install it, follow these steps:\n1. Open the App Store app on your Mac.\n2. Search for \"Xcode Command Line Tools\" in the search bar at the top of the screen.\n3. Click the \"Get\" button next to the Xcode Command Line Tools app.\n4. Wait for the installation to complete. This may take a few minutes.\n5. Once the installation is complete, you can use the Xcode Command Line Tools to compile C/C++ code on your Mac.",
     "time": 41.57,
     "evaluation": {
-      "bleu_score": 1.0832677820940877e-231
+      "bleu_score": 1.0832677820940877e-231,
+      "rouge_score": {
+        "precision": 0.06918238993710692,
+        "recall": 0.2464721658270045,
+        "f1": 0.1078561172296403
+      },
+      "diversity": 0.8058252427184466,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -41,7 +173,40 @@
     "answer": "You can set the System variable Path through the graphical interface in the Control Panel or in the command window using the setx command.",
     "time": 32.32,
     "evaluation": {
-      "bleu_score": 5.365660113191037e-155
+      "bleu_score": 5.365660113191037e-155,
+      "rouge_score": {
+        "precision": 0.20833333333333334,
+        "recall": 0.1451525054466231,
+        "f1": 0.17099069512862616
+      },
+      "diversity": 0.9565217391304348,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -50,7 +215,40 @@
     "answer": "To translate and execute a simple program written in the C programming language, you need to follow these steps:\n1. Open a command prompt and navigate to the folder where the program file will be stored.\n2. Use the \"mkdir\" command to create a new folder for your program files.\n3. Use the \"cd\" command to change into the newly created folder.\n4. Use a text editor, such as notepad, to edit the program file.\n5. Enter the following code in the program file:\n#include <stdio.h>\nint main(void) {\n   printf(\"Hello, World!\\n\");\n}\n6. Save the program file and exit the text editor.\n7. Use the \"gcc\" command to compile the program file into an executable file.\n8. Use the \"./\" command to execute the executable file.\n9. The output of the program should be displayed in the command prompt.",
     "time": 57.7,
     "evaluation": {
-      "bleu_score": 3.2644642219553266e-155
+      "bleu_score": 3.2644642219553266e-155,
+      "rouge_score": {
+        "precision": 0.059523809523809514,
+        "recall": 0.40343915343915343,
+        "f1": 0.10322483423749246
+      },
+      "diversity": 0.8840579710144928,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -59,7 +257,40 @@
     "answer": "To compile a file in command prompt, use the following command:\ngcc -o program.exe program.c\nThis will create an executable file named program.exe which can then execute with the command\nprogram.exe or program",
     "time": 40.32,
     "evaluation": {
-      "bleu_score": 5.06160493724778e-155
+      "bleu_score": 5.06160493724778e-155,
+      "rouge_score": {
+        "precision": 0.22522522522522523,
+        "recall": 0.3518840579710145,
+        "f1": 0.2745519713261649
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -68,7 +299,40 @@
     "answer": "When compiling or executing a program, there can be several possible problems that may arise. These include syntax errors, semantic errors, runtime errors, and linker errors. Syntax errors occur when the code does not follow the rules of the programming language's syntax. Semantic errors occur when the code is syntactically correct but does not make logical sense. Runtime errors occur during the execution of the program and can cause it to crash or behave unexpectedly. Linker errors occur when there are problems with the linking process, such as missing or incorrect library files. It's important to thoroughly test the program with different test data to ensure that it is working correctly before executing it on a larger scale.",
     "time": 54.98,
     "evaluation": {
-      "bleu_score": 1.2094413798735878e-78
+      "bleu_score": 1.2094413798735878e-78,
+      "rouge_score": {
+        "precision": 0.061111111111111116,
+        "recall": 0.38047138047138046,
+        "f1": 0.10519153568755528
+      },
+      "diversity": 0.9145299145299145,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -77,7 +341,40 @@
     "answer": "To set up the Visual Studio Code environment, follow these steps:\n1. Download the installation package from the link <https://code.visualstudio.com/download>\n2. Select the platform on which you want to install VSC (Windows, Linux, Mac)\n3. Run the installer and complete the installation process\n4. Open the folder in which you want to work or in which your programs will be located\n5. Start Visual Studio Code by clicking on its icon or by typing \"code\" in the command line.",
     "time": 49.24,
     "evaluation": {
-      "bleu_score": 0.04516128720933482
+      "bleu_score": 0.04516128720933482,
+      "rouge_score": {
+        "precision": 0.12048192771084337,
+        "recall": 0.42896825396825394,
+        "f1": 0.18795652829920742
+      },
+      "diversity": 0.9102564102564102,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -86,7 +383,40 @@
     "answer": "Visual Studio Code can be installed on a Linux operating system by following these steps:\n1. Open a terminal window on your Linux machine.\n2. Run the following command to download the installation package:\n   ```\n   curl -sSL https://code.visualstudio.com/sh/install | sh -\n   ```\n3. Follow the prompts to complete the installation process.\n4. Once the installation is complete, you can launch Visual Studio Code by running the following command in the terminal:\n   ```\n   code .\n   ```\nThis will open Visual Studio Code in your current directory. You can then use the character interface (command line) of the operating system to navigate and interact with Visual Studio Code.",
     "time": 53.73,
     "evaluation": {
-      "bleu_score": 5.88082628502336e-79
+      "bleu_score": 5.88082628502336e-79,
+      "rouge_score": {
+        "precision": 0.24038461538461536,
+        "recall": 0.12076402275052948,
+        "f1": 0.16075950706950975
+      },
+      "diversity": 0.9047619047619048,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -95,7 +425,40 @@
     "answer": "A debugger is a software tool that allows you to monitor the execution of a program step by step,\n    including its variables and data structures. In Visual Studio Code, you can use the built-in\n    debugger to debug your code. To do this, you need to set up a breakpoint in your code, which\n    will pause the execution of the program at that point. You can then use the debugger's\n    features to step through your code, inspect variables, and diagnose errors. The debugger\n    also provides a way to run your code with different input values or conditions, which can be\n    useful for testing and debugging.",
     "time": 55.98,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.01149648986951685,
+      "rouge_score": {
+        "precision": 0.3349056603773585,
+        "recall": 0.10487552701008299,
+        "f1": 0.15971710748508988
+      },
+      "diversity": 0.9611650485436893,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -104,7 +467,40 @@
     "answer": "Step out is a debugging action that allows you to exit the current function or procedure and continue execution at the next breakpoint or the end of the program. It can be useful when you want to quickly move past a particular section of code or when you are trying to find a specific error in your program.",
     "time": 40.15,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.1735619821747807,
+      "rouge_score": {
+        "precision": 0.25517241379310346,
+        "recall": 0.2829701996524932,
+        "f1": 0.26780425081310033
+      },
+      "diversity": 0.9824561403508771,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -113,7 +509,40 @@
     "answer": "You should use the \"Step In\" action in VSCode when you want to debug a function or method call that is nested within another function or method. This will allow you to step through the code line by line and see how the values of variables change as the program executes.",
     "time": 30.55,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.10001000250075022,
+      "rouge_score": {
+        "precision": 0.3686274509803921,
+        "recall": 0.3585089968190666,
+        "f1": 0.3630135327991293
+      },
+      "diversity": 0.98,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -122,7 +551,40 @@
     "answer": "You can check if a file is executable by running the command \"file program.exe\" in your terminal. If it returns \"ELF executable\", then the file is executable.",
     "time": 31.72,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.08249380266761669,
+      "rouge_score": {
+        "precision": 0.3071428571428571,
+        "recall": 0.17405713646484772,
+        "f1": 0.22173363840030508
+      },
+      "diversity": 0.9615384615384616,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -131,7 +593,40 @@
     "answer": "To create a universal Makefile, you need to define dependencies between files in your program. This can be done by listing the source files that are needed to compile an object file, and the object files that are needed to link an executable. You should also specify the commands that are needed to compile and link your program. Once you have defined these dependencies, you can use the make program to automatically build your program.",
     "time": 40.13,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.0546259919636364,
+      "rouge_score": {
+        "precision": 0.25,
+        "recall": 0.13980778464654703,
+        "f1": 0.17931447453088648
+      },
+      "diversity": 0.8648648648648649,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -140,7 +635,40 @@
     "answer": "Creating a universal Makefile can be useful for complex programs with many components, as it allows you to define dependencies between files in a single place, making it easier to manage and maintain your build system. However, if your program is small and simple, you may not need a Makefile at all. It ultimately depends on the complexity of your project and how much control you want over your build process.",
     "time": 17.93,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.04356535160554662,
+      "rouge_score": {
+        "precision": 0.09014084507042254,
+        "recall": 0.451474358974359,
+        "f1": 0.15002919226453298
+      },
+      "diversity": 0.9857142857142858,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -149,7 +677,40 @@
     "answer": "It depends on what you need to do with your code. If you are working on a small project, then using Notepad++ would be more efficient as it has more features than Notepad. However, if you are working on a larger project, then using VSCode would be more beneficial as it has more advanced features such as debugging and source control integration.",
     "time": 40.43,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.8324932104563633e-78,
+      "rouge_score": {
+        "precision": 0.1,
+        "recall": 0.18000513299968834,
+        "f1": 0.1283407419648021
+      },
+      "diversity": 0.819672131147541,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -158,7 +719,40 @@
     "answer": "To enable automatic code formatting when saving changes in VSC, follow these steps:\n1. Open Visual Studio Code (VSC).\n2. Press Alt-Shift-F to open the code formatter.\n3. In the code formatter window, select the desired formatting options.\n4. Click on the \"Enable\" button to enable automatic code formatting when saving changes.\n5. Save your changes and test the code formatting by running it in VSC or an external compiler.",
     "time": 42.4,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.15076075534326455,
+      "rouge_score": {
+        "precision": 0.14166666666666666,
+        "recall": 0.2766114229706852,
+        "f1": 0.18586250349082387
+      },
+      "diversity": 0.8840579710144928,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -167,7 +761,40 @@
     "answer": "You can format your code by editing the JSON object where next to the line editor.formatOnSave, the pencil icon is pressed with the mouse and true is selected. You can also change the default formatting style by adding a file named .clang-format in the folder where the source code is located and enter the IndentWidth setting, which determines the depth of each level of program commands. It is recommended to use an indentation of 3 letter spaces. Additionally, you need to change the tab width in the VSC settings for correct formatting.",
     "time": 50.88,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.16997601615063432,
+      "rouge_score": {
+        "precision": 0.1723404255319149,
+        "recall": 0.3065627689468172,
+        "f1": 0.17124696016771487
+      },
+      "diversity": 0.967032967032967,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -176,7 +803,40 @@
     "answer": "#include <stdio.h>\nint main(void) {\n  int a = 10;\n  int b = 20;\n  printf(\"%d %d %d\", a, b, a + b);\n  return 0;\n}",
     "time": 39.97,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.16472050168032898,
+      "rouge_score": {
+        "precision": 0.3545454545454546,
+        "recall": 0.5553899740106638,
+        "f1": 0.41933600713012475
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -185,7 +845,40 @@
     "answer": "The second code looks better because it follows the standard indentation and formatting conventions for C programming language.",
     "time": 20.9,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 3.576443600717887e-78,
+      "rouge_score": {
+        "precision": 0.2777777777777778,
+        "recall": 0.34626665324339745,
+        "f1": 0.2736794171220401
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -194,7 +887,40 @@
     "answer": "The platform used for performing laboratory exercises and exams is not specified in the given information.",
     "time": 21.48,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.4948287591444212,
+      "rouge_score": {
+        "precision": 0.45,
+        "recall": 0.46068722943722945,
+        "f1": 0.43658141947615625
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -203,7 +929,40 @@
     "answer": "You need to use your username and password to log in to the Edgar system.",
     "time": 29.85,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.4347208719449914,
+      "rouge_score": {
+        "precision": 0.5466666666666666,
+        "recall": 0.3752913363927131,
+        "f1": 0.4287463343108504
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -212,7 +971,40 @@
     "answer": "Yes, you can use official reminders on exams and laboratory exercises.",
     "time": 29.05,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.7860753021519787,
+      "rouge_score": {
+        "precision": 0.6727272727272727,
+        "recall": 0.4878624601205246,
+        "f1": 0.5399001161440186
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -221,7 +1013,40 @@
     "answer": "You can't take an exam from a previous academic year in Edgar. The system only allows you to access tasks and tests for the current academic year.",
     "time": 19.68,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.384292958842266e-231,
+      "rouge_score": {
+        "precision": 0.16428571428571428,
+        "recall": 0.1653324490611018,
+        "f1": 0.16030856149500217
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -230,7 +1055,40 @@
     "answer": "No, not all test cases will be worth the same amount of points. The percentage of points deducted from the total points allocated for the task depends on the type of test case. If it is a typical test case, 100% of the points may be deducted. If it is a test case that examines the behavior of the program at the very limits of the interval, less than 100% of the points may be deducted.",
     "time": 43.08,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.1553892072364746,
+      "rouge_score": {
+        "precision": 0.1526315789473684,
+        "recall": 0.5139778433896081,
+        "f1": 0.2320098000676845
+      },
+      "diversity": 0.8533333333333334,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -239,7 +1097,40 @@
     "answer": "In Edgar, the checks with program tasks are performed by a set of automated tools that analyze the program code written in C language. These tools check for syntax errors, semantic errors, runtime errors, and other issues that may affect the correctness of the solution. The process involves several steps:\n\n1. Syntax checking: This step checks the program code for syntax errors such as missing semicolons, parentheses, or braces. It also checks for proper indentation and formatting. If any syntax errors are found, the system will display an error message indicating the location of the error.\n2. Semantic checking: This step checks the program code for semantic errors such as undefined variables, incorrect data types, or incorrect function calls. It also checks for proper use of control structures like loops and conditionals. If any semantic errors are found, the system will display an error message indicating the location of the error.\n3. Runtime checking: This step runs the program code and tests it with different input data to check for runtime errors such as division by zero or array out of bounds. It also checks for proper use of memory allocation and deallocation. If any runtime errors are runtime errors are runtime errors are runtime errors are runtime",
     "time": 72.74,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.0738159489054807e-78,
+      "rouge_score": {
+        "precision": 0.1378205128205128,
+        "recall": 0.2262070419565676,
+        "f1": 0.16797775724088035
+      },
+      "diversity": 0.7101449275362319,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -248,7 +1139,40 @@
     "answer": "Yes, there is a support system in Edgar called Ticketing system.",
     "time": 18.62,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -257,7 +1181,40 @@
     "answer": "The support system in Edgar is called Ticketing system. It allows students to ask questions related to tests in Edgar, such as doubts about the accuracy of solutions or something else. The student can write a question with a specific task. If the student does not know how to use the system, they can refer to the instructions provided by Edgar.",
     "time": 39.24,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -266,7 +1223,40 @@
     "answer": "Yes, asking for solutions with the ticketing system is ok.",
     "time": 18.41,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -275,7 +1265,40 @@
     "answer": "The official course web-address is https://ferhr.onmicrosoft.com/en/upro/.",
     "time": 39.47,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -284,7 +1307,40 @@
     "answer": "A lecture cycle refers to the two cycles of lectures that take place during a course, with intermediate exams held after the first cycle and final exams held after the second cycle.",
     "time": 31.51,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.9032258064516129,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -293,7 +1349,40 @@
     "answer": "The first cycle of lectures takes place from October 2 to November 15, 2023.",
     "time": 8.27,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -302,7 +1391,40 @@
     "answer": "The duration of the second cycle in weeks is 2/7ths of a week, or approximately 1.43 hours.",
     "time": 31.07,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -311,7 +1433,40 @@
     "answer": "No, there are no prerequisites for enrollment into subject Introduction to programming.",
     "time": 26.78,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -320,7 +1475,40 @@
     "answer": "The student is expected to complete 140 hours of independent work in this course.",
     "time": 30.58,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -329,7 +1517,40 @@
     "answer": "If you don't work continuously, you may fall behind in your coursework and miss important concepts or assignments. It is recommended to work consistently every week following lecture by lecture to ensure that you are able to fully understand and retain the material.",
     "time": 26.65,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.082718746024266,
+      "rouge_score": {
+        "precision": 0.2556818181818182,
+        "recall": 0.1801375288018433,
+        "f1": 0.21133198293311148
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -338,7 +1559,40 @@
     "answer": "The total estimated engagement of the student for this course is divided into three parts: attendance at lectures (50 hours), attending laboratory exercises and knowledge tests (20 hours), and independent work (140 hours).",
     "time": 40.65,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.4301119719545748e-78,
+      "rouge_score": {
+        "precision": 0.49242424242424243,
+        "recall": 0.23156560503894352,
+        "f1": 0.3149299322220187
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -347,7 +1601,40 @@
     "answer": "To get a good grade on the exam, you should focus on understanding the content of the Independent Work chapter and actively participate in lectures by solving tasks assigned during lectures and asking questions for additional clarifications. Additionally, taking your own notes during lectures and reviewing them regularly can help reinforce your understanding of the material.",
     "time": 33.65,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.08288353130321378,
+      "rouge_score": {
+        "precision": 0.20982142857142858,
+        "recall": 0.21666666666666667,
+        "f1": 0.2031851795679172
+      },
+      "diversity": 0.9454545454545454,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -356,7 +1643,40 @@
     "answer": "Solving a large number of tasks is important because it helps you acquire the necessary skills to design an algorithm and write your own program, which are crucial for success in this subject. By saving your own solutions to exercises, you can also review them later and improve your understanding of the material.",
     "time": 36.62,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.1449808203179784,
+      "rouge_score": {
+        "precision": 0.2971698113207547,
+        "recall": 0.3023176014591883,
+        "f1": 0.2974685517850787
+      },
+      "diversity": 0.9807692307692307,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -365,7 +1685,40 @@
     "answer": "The competences expected to be acquired after completing the C language course include problem-solving skills, programming skills in C language, knowledge of data structures and algorithms, understanding of computer systems and their components, and ability to work independently under supervision.",
     "time": 28.21,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 7.83930941892604e-155,
+      "rouge_score": {
+        "precision": 0.22560975609756095,
+        "recall": 0.22703463203463203,
+        "f1": 0.22423913213386898
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -374,7 +1727,40 @@
     "answer": "Laboratory exercises are computer-based tasks that students perform in the laboratory as part of their coursework. These exercises are designed to test students' knowledge and understanding of specific concepts and skills. Students must complete the exercises within a prescribed time limit, and there is no compensation for late submissions. The exercises consist of two parts, and 30% of the total points make up a significant part of the overall grade. Therefore, it is important for students to work continuously and regularly access the laboratory exercises in order to achieve their best possible results.",
     "time": 40.72,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 2.085935199882211e-78,
+      "rouge_score": {
+        "precision": 0.2553191489361702,
+        "recall": 0.20295314258808297,
+        "f1": 0.22587348222109316
+      },
+      "diversity": 0.9565217391304348,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -383,7 +1769,40 @@
     "answer": "The duration of one laboratory exercise is approximately 110 minutes.",
     "time": 17.87,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.0,
+      "rouge_score": {
+        "precision": 0.64,
+        "recall": 0.39713032581453633,
+        "f1": 0.4241241830065359
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -392,7 +1811,40 @@
     "answer": "Yes, there are negative points on laboratory exercises.",
     "time": 22.79,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.017452248318958512,
+      "rouge_score": {
+        "precision": 0.84375,
+        "recall": 0.1404379054889328,
+        "f1": 0.24042676253607864
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -401,7 +1853,40 @@
     "answer": "Before running your code in Edgar, you need to copy-paste it into the field provided for the solution (program code) in the Edgar system.",
     "time": 33.59,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.06931954730277892,
+      "rouge_score": {
+        "precision": 0.4,
+        "recall": 0.15319151561160432,
+        "f1": 0.21941094304172384
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -410,7 +1895,40 @@
     "answer": "You can find the schedule of the laboratory exercises in the Guide for students.",
     "time": 41.61,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.050422439089252875,
+      "rouge_score": {
+        "precision": 0.4642857142857143,
+        "recall": 0.1385892545270705,
+        "f1": 0.2131263315710566
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -419,7 +1937,40 @@
     "answer": "The laboratory exercise has two parts.",
     "time": 11.66,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.6265742954663982e-80,
+      "rouge_score": {
+        "precision": 0.625,
+        "recall": 0.07765396210163653,
+        "f1": 0.13803854875283444
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -428,7 +1979,40 @@
     "answer": "No, you cannot pass with a grade of 5 if you have 0 points from lab exercises.",
     "time": 28.35,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.22019115986587884,
+      "rouge_score": {
+        "precision": 0.5882352941176471,
+        "recall": 0.23013260513260514,
+        "f1": 0.3292939526676696
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -437,7 +2021,40 @@
     "answer": "You have the option to consult with your lecturer individually or as a group, and you can do so at any time during the consultation period. It is recommended to request consultations as soon as you encounter difficulties that you cannot resolve on your own or with the help of colleagues.",
     "time": 35.39,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.06688071957304445,
+      "rouge_score": {
+        "precision": 0.13725490196078433,
+        "recall": 0.2424132730015083,
+        "f1": 0.17470538100053065
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -446,7 +2063,40 @@
     "answer": "During consultations, the lecturer will explain the material to you if necessary, but it is not recommended to rely on the consultation as a primary source of learning. It is best to use the consultation as a supplement to your own understanding and study efforts.",
     "time": 12.9,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 2.2380537095140364e-78,
+      "rouge_score": {
+        "precision": 0.23333333333333334,
+        "recall": 0.25313183542100215,
+        "f1": 0.24252556282923138
+      },
+      "diversity": 0.9318181818181818,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -455,7 +2105,40 @@
     "answer": "No, consultations can only be held with colleagues from the same university.",
     "time": 28.68,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 2.3420155003327497e-232,
+      "rouge_score": {
+        "precision": 0.3333333333333333,
+        "recall": 0.10622207573427087,
+        "f1": 0.16103516878449492
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -464,7 +2147,40 @@
     "answer": "Continuous monitoring of classes requires 3 tests (laboratory exercises, midterm exam, final exam).",
     "time": 33.04,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 9.464914409928857e-232,
+      "rouge_score": {
+        "precision": 0.46153846153846156,
+        "recall": 0.2625,
+        "f1": 0.3341523341523342
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -473,7 +2189,40 @@
     "answer": "The knowledge tests are a series of tasks that assess students' understanding of the material covered in class. These tests can include questions, choosing the correct answers, or solving problems in programming to the C language. The tasks are checked in laboratory exercises and written tests during the exam period.",
     "time": 28.99,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 2.672371100363575e-78,
+      "rouge_score": {
+        "precision": 0.325,
+        "recall": 0.23557978479853478,
+        "f1": 0.2728871090770404
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -482,7 +2231,40 @@
     "answer": "If you do not pass the course during the continuous monitoring of classes, you will need to retake the course in order to obtain a passing grade.",
     "time": 33.14,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.17133971211072227,
+      "rouge_score": {
+        "precision": 0.3333333333333333,
+        "recall": 0.23614182515111307,
+        "f1": 0.27605314618857024
+      },
+      "diversity": 0.9615384615384616,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -491,7 +2273,40 @@
     "answer": "To pass the course during continuous monitoring of classes, you must achieve a total number of points of at least 50 and obtain at least 16 points on the final exam.",
     "time": 35.19,
     "evaluation": {
-      "bleu_score": 0.2644985199406794
+      "bleu_score": 0.2644985199406794,
+      "rouge_score": {
+        "precision": 0.424731182795699,
+        "recall": 0.4466263097543224,
+        "f1": 0.4349312576468433
+      },
+      "diversity": 0.9666666666666667,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -500,7 +2315,40 @@
     "answer": "No, you cannot bring your personalized reminder to the exam. Official reminders are provided by the university for use during the exams. You should use the official reminders that will be available in digital form (pdf file) at the checks in Edgar system.",
     "time": 36.2,
     "evaluation": {
-      "bleu_score": 0.08829329567049694
+      "bleu_score": 0.08829329567049694,
+      "rouge_score": {
+        "precision": 0.17674418604651165,
+        "recall": 0.47780748663101597,
+        "f1": 0.2552417442072615
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -509,7 +2357,40 @@
     "answer": "If you don't submit the test for evaluation by the end of the time, it will be possible to submit it for evaluation within a reasonable time after the expiry of the check. However, this timeout will be recorded in the system, so the check can be canceled later.",
     "time": 38.38,
     "evaluation": {
-      "bleu_score": 0.520796861525333
+      "bleu_score": 0.520796861525333,
+      "rouge_score": {
+        "precision": 0.375,
+        "recall": 0.5648026315789474,
+        "f1": 0.4287878787878788
+      },
+      "diversity": 0.9375,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -518,7 +2399,40 @@
     "answer": "No, you cannot call a friend during the exam.",
     "time": 31.95,
     "evaluation": {
-      "bleu_score": 5.929498746342409e-78
+      "bleu_score": 5.929498746342409e-78,
+      "rouge_score": {
+        "precision": 0.4444444444444444,
+        "recall": 0.36507936507936506,
+        "f1": 0.3961352657004831
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -527,7 +2441,40 @@
     "answer": "If you have questions during the exam, you should contact your teacher for additional clarifications.",
     "time": 22.63,
     "evaluation": {
-      "bleu_score": 3.480275084383042e-78
+      "bleu_score": 3.480275084383042e-78,
+      "rouge_score": {
+        "precision": 0.27999999999999997,
+        "recall": 0.21663891458526058,
+        "f1": 0.23203948528115634
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -536,7 +2483,40 @@
     "answer": "The questions on this year's midterm exam will be similar to those on the midterm exams held during the lectures in the 1st cycle, which took place from October 2 to November 15, 2023.",
     "time": 35.61,
     "evaluation": {
-      "bleu_score": 1.1281870111727917e-231
+      "bleu_score": 1.1281870111727917e-231,
+      "rouge_score": {
+        "precision": 0.05238095238095238,
+        "recall": 0.1711233211233211,
+        "f1": 0.07904161376249745
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -545,7 +2525,40 @@
     "answer": "No, the Meduispit (MI) does not have a points threshold.",
     "time": 32.62,
     "evaluation": {
-      "bleu_score": 0.2907153684841096
+      "bleu_score": 0.2907153684841096,
+      "rouge_score": {
+        "precision": 0.28,
+        "recall": 0.31714285714285717,
+        "f1": 0.29594771241830065
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -554,7 +2567,40 @@
     "answer": "You don't know. The question is asking about the midterm exam, but the information provided only mentions the final exam and its point threshold.",
     "time": 36.08,
     "evaluation": {
-      "bleu_score": 0.16221515488145774
+      "bleu_score": 0.16221515488145774,
+      "rouge_score": {
+        "precision": 0.3466666666666667,
+        "recall": 0.2569865881061327,
+        "f1": 0.29486194535177673
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -563,7 +2609,40 @@
     "answer": "The midterm exam is held on November 15, 2023.",
     "time": 29.23,
     "evaluation": {
-      "bleu_score": 7.657404561915943e-155
+      "bleu_score": 7.657404561915943e-155,
+      "rouge_score": {
+        "precision": 0.3968253968253968,
+        "recall": 0.29380049774786615,
+        "f1": 0.33350612972461713
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -572,7 +2651,40 @@
     "answer": "Yes, the ZI has a points threshold of 16 points.",
     "time": 33.28,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 3.976144999995337e-78,
+      "rouge_score": {
+        "precision": 0.3,
+        "recall": 0.34282051282051285,
+        "f1": 0.296915837785403
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -581,7 +2693,40 @@
     "answer": "You received a total of 104 points during the continuous monitoring of classes, which is greater than the threshold of 50 points required for passing. You also achieved a passing grade on your final exam with 23 points out of 40 possible. Therefore, you will pass the exam period.",
     "time": 42.57,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.379654812846413e-78,
+      "rouge_score": {
+        "precision": 0.06938775510204082,
+        "recall": 0.4057142857142857,
+        "f1": 0.11497172020679598
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -590,7 +2735,40 @@
     "answer": "If you receive 10 points on the final exam, it will not affect your overall grade for the exam period. The overall grade is determined by adding up the points obtained in the laboratory exercises during the continuous monitoring of classes and points obtained on written tests of knowledge during the examination period.",
     "time": 26.47,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.6245643909451788e-78,
+      "rouge_score": {
+        "precision": 0.09433962264150944,
+        "recall": 0.5592857142857144,
+        "f1": 0.1571145579718277
+      },
+      "diversity": 0.9423076923076923,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -599,7 +2777,40 @@
     "answer": "The number of programming tasks on this year's final exam is not known at this time.",
     "time": 29.87,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.1988328686372911e-231,
+      "rouge_score": {
+        "precision": 0.10588235294117647,
+        "recall": 0.20850649350649353,
+        "f1": 0.13953439153439154
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -608,7 +2819,40 @@
     "answer": "Teachers can organize an extraordinary exam if they have the authority to do so and if it is necessary for the students' learning or assessment. However, such exams should be organized in accordance with the school's policies and procedures.",
     "time": 20.63,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 1.0901460182896916e-231,
+      "rouge_score": {
+        "precision": 0.034999999999999996,
+        "recall": 0.1402930402930403,
+        "f1": 0.05509265288644969
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -617,7 +2861,40 @@
     "answer": "Laboratory exercises carry a maximum of 30 points and have no point threshold.",
     "time": 27.93,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 9.6212612450095e-155,
+      "rouge_score": {
+        "precision": 0.4,
+        "recall": 0.4004329004329004,
+        "f1": 0.39920634920634923
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -626,7 +2903,40 @@
     "answer": "The points scale for determining grades is as follows:\n[87.5, 100] - grade 5\n[75, 87.5) - grade 4\n[62.5, 75) - grade 3\n[50, 62.5) - grade 2",
     "time": 39.71,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 4.425670833820033e-78,
+      "rouge_score": {
+        "precision": 0.3706896551724138,
+        "recall": 0.40064102564102566,
+        "f1": 0.37977273357727737
+      },
+      "diversity": 0.8928571428571429,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -635,7 +2945,40 @@
     "answer": "- V. Mornar: Introduction to programming, Element, 2021.\n- K. N. King, C Programming: A Modern Approach, Second Edition, W. W. Norton & Company",
     "time": 27.67,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0.7498810286408993,
+      "rouge_score": {
+        "precision": 0.7023809523809523,
+        "recall": 0.3271943938488326,
+        "f1": 0.41081000327010736
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -644,7 +2987,40 @@
     "answer": "Marko Horvat does not author recommended literature.",
     "time": 10.94,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 8.286571670851008e-155,
+      "rouge_score": {
+        "precision": 0.39999999999999997,
+        "recall": 0.32590187590187586,
+        "f1": 0.3565079365079365
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -653,7 +3029,40 @@
     "answer": "Yes, you can print out an official reminder and bring it with you.",
     "time": 29.86,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -662,7 +3071,40 @@
     "answer": "Prof. Ph.D. Igor Mekterovi\u0107 and Izv. prof. Ph.D. Ljiljana Brki\u0107 - Mon. 11-13 / Wednesday 10-12\nAssoc. prof. Ph.D. Marina Bagi\u0107 Babac and Prof. Ph.D. Gordan Gledec - Mon. 11-13 / Wednesday 10-12\nAssoc. Ph.D. Marko Horvat - Mon. / Wednesday 8-Wedited by request time slot, Wednesday 8-Wed",
     "time": 67.94,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.7872340425531915,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -671,7 +3113,40 @@
     "answer": "Boris Vrdoljak gives lectures in hall B3 on Mon. 13-15 / Wednesday 14-16.",
     "time": 46.41,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -680,7 +3155,40 @@
     "answer": "UPROlabosi@ferhr.onmicrosoft.com",
     "time": 30.24,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -689,7 +3197,40 @@
     "answer": "Your email should include the following information:\n1. The subject line should be [UPRO] followed by the title of your question.\n2. In the body of the email, you should introduce yourself as a student of the course and specify which lecturer or assistant you are addressing.\n3. You should clearly state your question and provide any necessary context or background information.\n4. If you have any attachments, such as lab reports or exercise solutions, you should include them in the email.\n5. Finally, you should sign off with your name and student ID number.",
     "time": 46.32,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.9574468085106383,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -698,7 +3239,40 @@
     "answer": "The course official email address is UPROlabosi@ferhr.onmicrosoft.com.",
     "time": 25.23,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -707,7 +3281,40 @@
     "answer": "https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf",
     "time": 50.49,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -716,7 +3323,40 @@
     "answer": "No, there is no joint points threshold for the Meduispit and Zavrsni ispit exams. Each exam has its own point threshold and it is important to achieve a passing grade in each exam individually.",
     "time": 32.28,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -725,7 +3365,40 @@
     "answer": "Lectures in the 1st cycle, October 2 - November 15, 2023.",
     "time": 47.94,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -734,7 +3407,40 @@
     "answer": "I don't know.",
     "time": 31.21,
     "evaluation": {
-      "bleu_score": 5.819186114595022e-155
+      "bleu_score": 5.819186114595022e-155,
+      "rouge_score": {
+        "precision": 0.25,
+        "recall": 0.11746031746031745,
+        "f1": 0.15661375661375662
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -743,7 +3449,40 @@
     "answer": "https://www.cambridge.ac.uk/study/undergraduate/humanities-social-sciences/politics/international-relations/",
     "time": 18.45,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "diversity": 0.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -752,7 +3491,40 @@
     "answer": "The subject's ID on the FER intranet page is 1234567890.",
     "time": 25.86,
     "evaluation": {
-      "bleu_score": 1.2183324802375697e-231
+      "bleu_score": 1.2183324802375697e-231,
+      "rouge_score": {
+        "precision": 0.04545454545454545,
+        "recall": 0.05051892551892551,
+        "f1": 0.04690016103059582
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -761,7 +3533,40 @@
     "answer": "After finishing Introduction to Programming, you may enroll in more advanced programming courses such as Data Structures and Algorithms, Object Oriented Programming, Web Development, Database Systems, Operating Systems, Computer Networks, Software Engineering, etc. These courses are also part of the Electrical Engineering and Information Technology and Computer Science study program at the University of Zagreb, Faculty of Electrical Engineering and Computing (FER). You can find more information about these courses on the web-address: http://www.fer.hr/predmet/uup_a",
     "time": 38.84,
     "evaluation": {
-      "bleu_score": 2.4606427705034855e-155
+      "bleu_score": 2.4606427705034855e-155,
+      "rouge_score": {
+        "precision": 0.018518518518518517,
+        "recall": 0.15540293040293038,
+        "f1": 0.032764150695172724
+      },
+      "diversity": 0.9726027397260274,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -770,7 +3575,40 @@
     "answer": "We will learn C programming language in this course.",
     "time": 17.36,
     "evaluation": {
-      "bleu_score": 6.784827072174911e-78
+      "bleu_score": 6.784827072174911e-78,
+      "rouge_score": {
+        "precision": 0.5370370370370371,
+        "recall": 0.4054232804232804,
+        "f1": 0.456330036040181
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -779,7 +3617,40 @@
     "answer": "Each presentation in the 1st cycle has approximately 20 slides, while each presentation in the 2nd cycle has approximately 30 slides.",
     "time": 38.76,
     "evaluation": {
-      "bleu_score": 0
+      "bleu_score": 0,
+      "rouge_score": {
+        "precision": 0.007936507936507936,
+        "recall": 0.012820512820512822,
+        "f1": 0.00980392156862745
+      },
+      "diversity": 0.8,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -788,7 +3659,40 @@
     "answer": "You need to achieve a total of 50 points or more in your classes, laboratory exercises, and Meduispit, and receive a passing grade on your final exam with at least 16 points out of 40 possible.",
     "time": 38.03,
     "evaluation": {
-      "bleu_score": 3.918477812555336e-155
+      "bleu_score": 3.918477812555336e-155,
+      "rouge_score": {
+        "precision": 0.09444444444444444,
+        "recall": 0.4,
+        "f1": 0.15190476190476193
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -797,7 +3701,40 @@
     "answer": "You can find the official reminder for Python language on the Edgar system.",
     "time": 30.28,
     "evaluation": {
-      "bleu_score": 0.2044800736021839
+      "bleu_score": 0.2044800736021839,
+      "rouge_score": {
+        "precision": 0.1111111111111111,
+        "recall": 0.10263742249036367,
+        "f1": 0.10376617127275753
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -806,7 +3743,40 @@
     "answer": "To check your program correctly, you need to set a breakpoint on the command in front of which you want to stop the execution of the program. Then, compile the program and run it with different test data. If the program stops at the breakpoint, hover over the name of the variable to get an insight into its value. If the program does not stop at the breakpoint or if the values are incorrect, you need to debug your code and fix any errors or warnings that may be present.",
     "time": 44.97,
     "evaluation": {
-      "bleu_score": 2.2014080217742757e-78
+      "bleu_score": 2.2014080217742757e-78,
+      "rouge_score": {
+        "precision": 0.12222222222222223,
+        "recall": 0.343778801843318,
+        "f1": 0.17936685810337583
+      },
+      "diversity": 0.9213483146067416,
+      "human_eval": {
+        "fluency": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "coherence": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "relevance": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "context_understanding": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        },
+        "overall_quality": {
+          "reviewer_4": "_",
+          "reviewer_5": "_",
+          "reviewer_6": "_"
+        }
+      }
     }
   },
   {
@@ -815,7 +3785,40 @@
     "answer": "You would receive a grade of 2 on the final exam, which is equivalent to a passing grade based on continuous monitoring of classes.",
     "time": 33.7,
     "evaluation": {
-      "bleu_score": 2.767152937577739e-78
+      "bleu_score": 2.767152937577739e-78,
+      "rouge_score": {
+        "precision": 0.18333333333333332,
+        "recall": 0.39705288175876413,
+        "f1": 0.24758675088660742
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "coherence": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "relevance": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "context_understanding": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "overall_quality": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        }
+      }
     }
   },
   {
@@ -824,7 +3827,40 @@
     "answer": "There are no lectures during the time period of December 4, 2023 - January 24, 2024.",
     "time": 42.5,
     "evaluation": {
-      "bleu_score": 0.1875114458383465
+      "bleu_score": 0.1875114458383465,
+      "rouge_score": {
+        "precision": 0.3888888888888889,
+        "recall": 0.33905945419103317,
+        "f1": 0.3617004964253541
+      },
+      "diversity": 1.0,
+      "human_eval": {
+        "fluency": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "coherence": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "relevance": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "context_understanding": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        },
+        "overall_quality": {
+          "reviewer_1": "_",
+          "reviewer_2": "_",
+          "reviewer_3": "_"
+        }
+      }
     }
   }
 ]
