@@ -243,62 +243,90 @@
       "q_27": "Explain to me, in detail, how the checks with program tasks work in Edgar.",
       "answers": [
          "The program code transferred to the Edgar system can be run in the following ways: by selecting the option 'Run', while the program code field is in focus (the mouse pointer is in the field), by a key combination Ctrl + Enter. If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task. This percentage can be 100% if it is a typical test case, for example if a program that determines whether a given number is within the required interval does not work well for numbers inside or outside the interval, or less than 100% if the test case examines program behavior at the boundaries of the interval. The total deducted percentage of points for a task cannot exceed 100%.",
-         " How correct the given solution to a programming task is checked like so: firstly, If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. Secondly, If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task.",
+         "How correct the given solution to a programming task is checked like so: firstly, If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. Secondly, If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task.",
          "The program code transferred to the Edgar system can be run in the following ways: by selecting the option 'Run' or while the program code field is in focus (the mouse pointer is in the field), by a key combination Ctrl + Enter. If errors or warnings occur during the compilation of the source code, the error/warning reported by the gcc compiler is shown. If the compilation of the program is successful, the program will be run on several pre-prepared test cases. If the printout of the program for a case does not correspond to the expected printout, a certain percentage, determined in advance for that case, is deducted from the total number of points provided for the task."
       ]
    },
    {
       "q_28": "Is there a support system in Edgar?",
       "answers": [
-         "Edgar offers a support system called Ticketing system. In case of doubt about the accuracy of the solution or something else, the student can ask a question related to a specific task."
+         "Edgar offers a support system called Ticketing system. In case of doubt about the accuracy of the solution or something else, the student can ask a question related to a specific task.",
+         "Within Edgar's framework, there exists a support mechanism known as the Ticketing system, giving students the opportunity to seek clarification on solution accuracy or other matters pertaining to specific tasks",
+         "Edgar offers a means of support through the Ticketing system, allowing students to raise questions regarding the accuracy of solutions or any other uncertainties related to specific tasks.",
+         "Edgar provides a support feature known as the Ticketing system. If there are uncertainties regarding the correctness of a solution or any other matter, students have the option to pose questions related to a particular task."
       ]
    },
    {
       "q_29": "How does the support system in Edgar work?",
       "answers": [
-         "Click on the icon in the upper right corner of the question page. Enter a description of the problem in the window that appears and confirm it by clicking Yes, raise ticket. Then continue with the test, without waiting for an answer. The teaching staff will examine the problem as soon as possible and answer the student. While waiting for an answer, the student is not able to send additional messages related to the same task (he can send messages about other tasks) - the icon turns red, and an hourglass icon appears next to it. After the the problem has been addresses, a message appears on the student's screen. The student can then return to the appropriate question and check for the answer. The answer can be viewed by clicking on the green cloud icon. Remark: Only after the teaching staff answers the question related to the task, the student can ask the next question about the same task if necessary."
+         "Click on the icon in the upper right corner of the question page. Enter a description of the problem in the window that appears and confirm it by clicking Yes, raise ticket. Then continue with the test, without waiting for an answer. The teaching staff will examine the problem as soon as possible and answer the student. While waiting for an answer, the student is not able to send additional messages related to the same task (he can send messages about other tasks) - the icon turns red, and an hourglass icon appears next to it. After the the problem has been addresses, a message appears on the student's screen. The student can then return to the appropriate question and check for the answer. The answer can be viewed by clicking on the green cloud icon. Remark: Only after the teaching staff answers the question related to the task, the student can ask the next question about the same task if necessary.",
+         "Click on the icon located in the upper right corner of the question page. Enter a description of the issue in the appearing window and confirm it by selecting \"Yes, raise ticket.\" Proceed with the test without awaiting a response. The teaching staff will promptly address the problem and respond to the student. While awaiting a response, the student cannot send additional messages regarding the same task (although messages about other tasks are allowed) – the icon turns red, and an hourglass icon appears beside it. After the problem is addressed, a notification appears on the student's screen. The student can then return to the relevant question and check for the answer, accessible by clicking on the green cloud icon. Note: Only after the teaching staff answers the question related to the task can the student ask any additional questions about the same task if necessary.",
+         "Select the icon positioned in the upper right corner of the question page. Input a description of the problem in the emerging window and confirm by clicking \"Yes, raise ticket.\" Proceed with the test without awaiting a reply. The teaching staff will promptly assess the issue and respond to the student. During the waiting period, the student is unable to send extra messages related to the same task (though messages regarding other tasks are acceptable) – the icon transforms into red, accompanied by an hourglass icon. Following the resolution of the problem, a notification will appear on the student's screen, allowing them to return to the relevant question and access the answer by clicking on the green cloud icon. Special note: The student can inquire about additional questions regarding the same task only after the teaching staff has responded to the initial query.",
+         "Click on the icon located at the upper right corner of the question page. Describe the issue in the window that appears and confirm by clicking \"Yes, raise ticket.\" Proceed with the test without waiting for a response. The teaching staff will promptly review and respond to the student's concern. While awaiting a response, the student is restricted from sending extra messages concerning the same task (although messages about other tasks are allowed) – the icon changes to red, and an hourglass icon appears beside it. Once the issue is addressed, a message will appear on the student's screen, allowing them to return to the specific question and view the answer by clicking on the green cloud icon. Note: The student can only pose additional questions about the same task after the teaching staff has addressed the initial question.",
+         "Choose the icon positioned in the upper right corner of the question page. Provide a description of the problem in the window that pops up and confirm by clicking \"Yes, raise ticket.\" Proceed with the test without waiting for an answer. The teaching staff will promptly address the problem and respond to the student. While waiting for a response, the student is not permitted to send additional messages related to the same task (though messages about other tasks are acceptable) – the icon turns red, and an hourglass icon appears next to it. After the problem has been resolved, a message will appear on the student's screen, allowing them to return to the relevant question and check for the answer by clicking on the green cloud icon. Important note: The student can ask additional questions about the same task only after the teaching staff has answered the initial question."
       ]
    },
    {
       "q_30": "Is asking for solutions with the ticketing system ok?",
       "answers": [
-         "Yes, you can ask questions related to tests using the ticketing system in Edgar."
+         "Yes, you can ask questions related to tests using the ticketing system in Edgar.",
+         "You are allowed to inquire about test-related questions using the ticketing system in Edgar.",
+         "The ticketing system in Edgar facilitates the asking of questions pertaining to tests.",
+         "It's possible to use the ticketing system in Edgar for raising questions specifically related to tests."
       ]
    },
    {
       "q_31": "What is the official course web-address?",
       "answers": [
-         "Official course web-adress is https://www.fer.unizg.hr/predmet/uup_a."
+         "Official course web-adress is https://www.fer.unizg.hr/predmet/uup_a.",
+         "Access course details by navigating to the official web address: https://www.fer.unizg.hr/predmet/uup_a.",
+         "The designated web address for the course can be accessed at https://www.fer.unizg.hr/predmet/uup_a.",
+         "To find information about the course, visit the official web page at https://www.fer.unizg.hr/predmet/uup_a."
       ]
    },
    {
       "q_32": "What is a lecture cycle?",
       "answers": [
-         "The lecture cycle refers to a period of several weeks of lectures. The semester consists of two cycles. The first cycle is followed by an midterm exam, while the second cycle is followed by a final exam."
+         "The lecture cycle refers to a period of several weeks of lectures. The semester consists of two cycles. The first cycle is followed by an midterm exam, while the second cycle is followed by a final exam.",
+         "A lecture cycle encompasses multiple weeks of instructional sessions within a semester, and there are two cycles per semester. After the first cycle, a midterm exam is conducted, and the final exam is administered following the second cycle.",
+         "In the context of the academic term, a lecture cycle spans several weeks, and each semester is divided into two such cycles. The midterm exam occurs after the completion of the first cycle, while the final exam follows the conclusion of the second cycle.",
+         "The lecture cycle represents a period extending over multiple weeks devoted to lectures. A semester consists of two cycles, with a midterm exam occurring after the first cycle and a final exam taking place after the second cycle."
       ]
    },
    {
       "q_33": "How long is the first cycle of lectures?",
       "answers": [
-         "The first cycle of lectures takes place from October 2 to November 15, 2023."
+         "The first cycle of lectures takes place from October 2 to November 15, 2023.",
+         "Lectures for the first cycle are set to occur between October 2 and November 15, 2023.",
+         "From October 2 to November 15, 2023, the first cycle of lectures is planned.",
+         "The period spanning October 2 to November 15, 2023, is earmarked for the first cycle of lectures"
       ]
    },
    {
       "q_34": "What is the duration of the second cycle in weeks?",
       "answers": [
-         "The duration of the second cycle is 6 weeks."
+         "The duration of the second cycle is 6 weeks.",
+         "The second cycle spans a duration of 6 weeks.",
+         "There is a 6-week duration assigned to the second cycle.",
+         "The second cycle extends over a period of 6 weeks."
       ]
    },
    {
       "q_35": "Are there prerequisites for enrollment into subject?",
       "answers": [
-         "There are no specific prerequisites for enrolling in the Introduction to programming subject."
+         "There are no specific prerequisites for enrolling in the Introduction to programming subject.",
+         "No particular prerequisites are required for enrollment in the Introduction to Programming course.",
+         "Enrolling in the Introduction to Programming subject does not have specific prerequisites.",
+         "No prerequisites are necessary to register for the Introduction to Programming subject"
       ]
    },
    {
       "q_36": "How much independent work is expected from the student in this course?",
       "answers": [
-         "The student is expected to spend approximately 140 hours on independent work in this course, which is equivalent to around 10 hours per week."
+         "The student is expected to spend approximately 140 hours on independent work in this course, which is equivalent to around 10 hours per week.",
+         "The expectation is for students to invest around 10 hours per week in independent work, totaling approximately 140 hours for the course.",
+         "Students are anticipated to dedicate approximately 140 hours to independent work for this course, averaging around 10 hours per week.",
+         "The course anticipates students to engage in approximately 140 hours of independent work, translating to an average of 10 hours per week."
       ]
    },
    {
@@ -647,64 +675,91 @@
    {
       "q_73": "Am I allowed to print out an official reminder and bring it with me?",
       "answers": [
-         "",
-         ""
+         "Yes, you are allowed to bring the official reminder.",
+         "Yes, The official reminder can be printed on the paper and used freely in lectures and any knowledge test: laboratory exercises, midterm exam, final exam and classical exams.",
+         "Yes, but you cannot add anything to it.",
+         "It is recommended to bring an official reminder.",
+         "The Official reminder is an allowed tool to use in exams."
       ]
    },
    {
       "q_74": "List me the course lecturers and their respective time slots.",
       "answers": [
-         "",
-         ""
+         "Here you go: Prof. dr. sc. Igor Mekterović and Izv. prof. dr. sc. Ljiljana Brkić D1, Mon 11-13 / Wed 10-12, Izv. prof. dr. sc. Marina Bagić Babac and Prof. dr. sc. Gordan Gledec D2, Mon 11-13 / Wed 10-12, Doc. dr. sc. Marko Horvat  B2, Mon / Wed 8-10, Prof. dr. sc. Nikica Hlupić B3, Mon / Wed 8-10, Doc. dr. sc. Slaven Zakošek B2, Mon. / Wed 16-18, Prof. dr. sc. Boris Vrdoljak and Prof. dr. sc. Krešimir Trontl B3, Mon 13-15 / Wed 14-16",
+         "The course lecturers and their time slots are the following: Prof. dr. sc. Igor Mekterović and Izv. prof. dr. sc. Ljiljana Brkić D1, Mon 11-13 / Wed 10-12, Izv. prof. dr. sc. Marina Bagić Babac and Prof. dr. sc. Gordan Gledec D2, Mon 11-13 / Wed 10-12, Doc. dr. sc. Marko Horvat B2, Mon / Wed 8-10, Prof. dr. sc. Nikica Hlupić B3, Mon / Wed 8-10, Doc. dr. sc. Slaven Zakošek B2, Mon. / Wed 16-18, Prof. dr. sc. Boris Vrdoljak and Prof. dr. sc. Krešimir Trontl B3, Mon 13-15 / Wed 14-16",
+         "Prof. dr. sc. Igor Mekterović and Izv. prof. dr. sc. Ljiljana Brkić D1, Mon 11-13 / Wed 10-12, Izv. prof. dr. sc. Marina Bagić Babac and Prof. dr. sc. Gordan Gledec D2, Mon 11-13 / Wed 10-12, Doc. dr. sc. Marko Horvat B2, Mon / Wed 8-10, Prof. dr. sc. Nikica Hlupić B3, Mon / Wed 8-10, Doc. dr. sc. Slaven Zakošek B2, Mon. / Wed 16-18, Prof. dr. sc. Boris Vrdoljak and Prof. dr. sc. Krešimir Trontl B3, Mon 13-15 / Wed 14-16",
+         "You can find this information in the student guide."
       ]
    },
    {
       "q_75": "Does Boris Vrdoljak give lectures? If so, where?",
       "answers": [
-         "",
-         ""
+         "Yes, Prof. dr. sc. Boris Vrdoljak-> B3, Mon 13-15 / Wed 14-16",
+         "You can find him in B3, Mon 13-15 and Wed 14-16",
+         "He gives lectures in B3 on Mondays (13-15) and Wednesdays (14-16)",
+         "You can find this information in the student guide."
       ]
    },
    {
       "q_76": "Give me the email of one of the lecturers.",
       "answers": [
-         "",
-         ""
+         "gordan.gledec@fer.hr",
+         "igor.mekterovic@fer.hr",
+         "ljiljana.brkic@fer.hr",
+         "marina.bagic@fer.hr",
+         "marko.horvat3@fer.hr",
+         "nikica.hlupic@fer.hr",
+         "slaven.zakosek@fer.hr",
+         "boris.vrdoljak@fer.hr",
+         "kresimir.trontl@fer.hr",
+         "igor.mekterovic@fer.hr ljiljana.brkic@fer.hr marina.bagic@fer.hr marko.horvat3@fer.hr nikica.hlupic@fer.hr slaven.zakosek@fer.hr boris.vrdoljak@fer.hr kresimir.trontl@fer.hr"
       ]
    },
    {
       "q_77": "If i have a question for the lecturers, what should my email consist of?",
       "answers": [
-         "",
-         ""
+         "At the start of the title (subject), you should add the mark [UPRO] (which is an abbreviation of the subject name), and at the end, state the name, surname, and JMBAG of the sender.",
+         "At the start of the title (subject), you should add the mark [UPRO] (which is an abbreviation of the subject name), and at the end, state the name, surname, and JMBAG of the sender. Addition: mail must be sent from @fer.hr, not @gmail.com, for example.",
+         "This information is in the student guide.",
+         "Your email needs to have your name, surname, JMBAG and subject of your email should be [UPRO]. It should also be send from @fer.hr. ",
+         "Your email needs to have your name, surname, JMBAG and subject of your email should be [UPRO]."
       ]
    },
    {
       "q_78": "What is the course official email address?",
       "answers": [
-         "",
-         ""
+         "UPROlabosi@ferhr.onmicrosoft.com",
+         "Course official email adress is UPROlabosi@ferhr.onmicrosoft.com",
+         "Ask your professors questions related to the materials. Questions related to labaratory exercises should be sent to UPROlabosi@ferhr.onmicrosoft.com.",
+         "Course official email adress is UPROlabosi@ferhr.onmicrosoft.com. Questions related to the materials should be sent to professors."
       ]
    },
    {
       "q_79": "Give me the link to the official guide for students.",
       "answers": [
-         "",
-         ""
+         "The link is:  https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf.",
+         " https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf.",
+         "You can access the student guide via the following link: https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf.",
+         "The student guide can be found here: https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf."
       ]
    },
    {
       "q_80": "Is there a joint points threshold for the meduispit and zavrsni ispit exams?",
       "answers": [
-         "",
-         ""
+         "No, there isn't, but you need to have at least 50 points to pass the course.",
+         "There is no joint points threshold for the meduispit and zavrsni ispit exams.",
+         "There is not, but there are some thresholds on course.",
+         "There is not, but you have to have more than 16 points on zavrsni ispit exam.",
+         "No. There is no joint points treshold."
       ]
    },
    {
       "q_81": "11. Can you list me names of lectures that go throughout semester?",
       "answers": [
-         "",
-         ""
+         "I do not have access to that information.",
+         "That information is unavailable.",
+         "The site providing this information is inaccessible to me.",
+         "You can find that information on FerWeb."
       ]
    },
    {

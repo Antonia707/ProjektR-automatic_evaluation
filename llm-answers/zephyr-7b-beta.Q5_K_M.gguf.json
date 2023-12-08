@@ -1139,11 +1139,11 @@
     "answer": "Yes, Edgar offers a support system called Ticketing system, which can be used to ask questions related to tests in Edgar (e.g. Preparation for labs, mid-term exam, final exam and the like). If you have any doubts or doubts about the accuracy of the solution or something else, you can ask a specific question about the task.",
     "time": 28.34,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.3093321771819133,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.2584745762711864,
+        "recall": 0.48540706605222733,
+        "f1": 0.33678847871225365
       },
       "diversity": 0.9821428571428571,
       "human_eval": {
@@ -1181,11 +1181,11 @@
     "answer": "The support system in Edgar is called Ticketing system, and it allows students to ask related questions about tests they are taking in Edgar. This includes doubts about the accuracy of solutions or any other issues that arise during the test-taking process. The system can be used while writing a check, and its use is described in detail within Edgar's documentation. In summary, students can submit specific tasks with related questions through this system for clarification from teaching staff.",
     "time": 41.45,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.4848872090432047e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.22716049382716047,
+        "recall": 0.12453437209834502,
+        "f1": 0.16078228686536888
       },
       "diversity": 0.9871794871794872,
       "human_eval": {
@@ -1223,11 +1223,11 @@
     "answer": "Yes, you can ask questions related to tests using the ticketing system in Edgar. This system allows you to communicate with teaching staff about issues related to tests, such as preparing for labs, mid-term exams, final exams, etc. If you have any doubts or concerns about a specific task, you can submit a question through this system. The use of the ticketing system while writing a check is described in section 3.1 of the Edgar User Manual. By using this system, you can view your messages related to exam questions using the My tickets menu options, which allows for subsequent review of teaching staff answers if necessary. This feature is useful when the answer cannot be provided quickly due to the duration of the check.",
     "time": 39.97,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.11595024800884983,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.09055118110236221,
+        "recall": 0.784841628959276,
+        "f1": 0.16223621278498412
       },
       "diversity": 0.9193548387096774,
       "human_eval": {
@@ -1265,11 +1265,11 @@
     "answer": "The official course web-address can be found on the course page in the Student Information System (SIS). You can access SIS through your student account on the FER website. Once you are logged into SIS, navigate to the \"Courses\" tab and select the appropriate semester. From there, locate the specific course you are interested in and click on its title to view its details. The web-address for the course will be listed under the \"Links\" section. If you have any trouble finding the web-address or accessing SIS, please contact your lecturer or the FER administration for assistance.",
     "time": 53.93,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.0015196220622843e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.065,
+        "recall": 0.3675663517768781,
+        "f1": 0.1101752580438205
       },
       "diversity": 0.9583333333333334,
       "human_eval": {
@@ -1307,11 +1307,11 @@
     "answer": "A lecture cycle refers to a series of lectures that cover a specific topic or unit of study. It typically consists of multiple sessions, usually spanning several weeks, during which the instructor presents the necessary material and engages students in interactive learning activities. Intermediate exams are held at the end of the first cycle, while final exams follow after the completion of the second cycle. The lecture format is a common teaching method used in universities and colleges to deliver theoretical concepts and practical skills to students.",
     "time": 40.16,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.17612811947291993,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.21264367816091953,
+        "recall": 0.47048364153627314,
+        "f1": 0.2925823688746614
       },
       "diversity": 0.9883720930232558,
       "human_eval": {
@@ -1349,11 +1349,11 @@
     "answer": "The first cycle of lectures takes place from October 2 to November 15, 2023.",
     "time": 7.22,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.0,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.6428571428571428,
+        "recall": 0.6029411764705882,
+        "f1": 0.6212365591397849
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1391,11 +1391,11 @@
     "answer": "The duration of the second cycle is not specified in the given context. The text only mentions that there are four laboratory exercises in each cycle, with a duration of approximately 110 minutes for each exercise. It does not provide information about the total number of weeks in the second cycle.",
     "time": 35.22,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.13540299088485536,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.1323529411764706,
+        "recall": 0.703030303030303,
+        "f1": 0.22256742464304602
       },
       "diversity": 0.94,
       "human_eval": {
@@ -1433,11 +1433,11 @@
     "answer": "There are no specific prerequisites for enrolling in the Introduction to programming subject, but a basic knowledge of mathematics and physics is recommended as some concepts from these fields will be used during the course. It's also important to have a computer with an operating system (Windows, Mac OS X or Linux) and a text editor installed before starting the course.",
     "time": 35.52,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.1855629810350312,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.15725806451612903,
+        "recall": 0.7756410256410255,
+        "f1": 0.26144144144144144
       },
       "diversity": 0.9833333333333333,
       "human_eval": {
@@ -1475,11 +1475,11 @@
     "answer": "According to the information provided, the student is expected to spend approximately 140 hours on independent work in this course, which is equivalent to around 10 hours per week in addition to attending lectures and laboratory exercises. It's important to note that this independent work should be done consistently each week as the material is presented in a layered approach.",
     "time": 39.31,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.3842100630444701,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.26229508196721313,
+        "recall": 0.7204545454545455,
+        "f1": 0.3842227296987514
       },
       "diversity": 0.9830508474576272,
       "human_eval": {
@@ -3029,11 +3029,11 @@
     "answer": "Yes, you can print out official reminders and bring them with you to checks. However, during laboratory exercises, they should not be added to. They will also be available in checks through this system as the last question in the check. Knowledge checks are only available at a preset time interval.",
     "time": 35.62,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 4.7400236394120965e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.0784313725490196,
+        "recall": 0.3366161616161616,
+        "f1": 0.1218144613389992
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3071,11 +3071,11 @@
     "answer": "- Group P1: Prof. Ph.D. Igor Mekterovi\u0107 (Mon. 11-13 / Wednesday 10-12), Izv. prof. Ph.D. Ljiljana Brki\u0107 (same schedule)\n- Group P2: Assoc. prof. Ph.D. Marina Bagi\u0107 Babac (Mon. 11-13 / Wednesday 10-12), Prof. Ph.D. Gordan Gledec (same schedule)\n- note: Mon.- Group P2)\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note:)\n- note: Mon.- Group P2)\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n- note: Mon.\n",
     "time": 83.3,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 4.013638863158064e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.17934782608695654,
+        "recall": 0.1771359170601965,
+        "f1": 0.17814771239528482
       },
       "diversity": 0.35454545454545455,
       "human_eval": {
@@ -3113,11 +3113,11 @@
     "answer": "Yes, Prof. Ph.D. Boris Vrdoljak gives lectures to group P6 in hall B3 on Mondays from 13-15 and on Wednesdays from 14-16 during the second cycle of lectures (December 4, 2023 - January 24, 2024).",
     "time": 51.09,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.5095473395943436e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.20270270270270271,
+        "recall": 0.5940170940170941,
+        "f1": 0.3017391304347826
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3197,11 +3197,11 @@
     "answer": "Your email should include [UPRO] at the beginning of the title (Subject) to indicate that it is related to UPROlab. Additionally, you should use your @fer.hr email address for communication with lecturers, assistants, and administration instead of personal email addresses like @gmail.com or @yahoo.com. Remember to check your email inbox @fer.hr regularly as notifications may be sent via email.",
     "time": 36.4,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.0923036518735208e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.1333333333333333,
+        "recall": 0.3243411407116038,
+        "f1": 0.18104230820725667
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3239,11 +3239,11 @@
     "answer": "The course official email addresses are @fer.hr, not e.g. @gmail.com or @yahoo.com. When communicating with lecturers, assistants, and administration via email, it is mandatory to use these addresses with [UPRO] added at the beginning of the title (Subject). For example, if you have a question related to laboratory exercises, you should send an email to UPROlabosi@ferhr.onmicrosoft.com with \" [UPRO] Laboratory exercise\" in the subject line.",
     "time": 39.07,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 3.927863455381347e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.11619718309859155,
+        "recall": 0.7335004177109441,
+        "f1": 0.1918840579710145
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3281,11 +3281,11 @@
     "answer": "The link to the official guide for students is https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf.",
     "time": 49.7,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.552765724042392e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.5972222222222222,
+        "recall": 0.8166118421052632,
+        "f1": 0.6770800211976683
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3323,11 +3323,11 @@
     "answer": "No, there is no joint points threshold for the Meduispit and Zavrsni ispit exams. Each exam has its own maximum number of points and point threshold. The Meduispit carries a maximum of 30 points with no point threshold, while the final exam carries a maximum of 40 points with a point threshold of 16 points. It's important to note that while there is no point threshold for laboratory exercises, they still make up a significant part of the overall grade, as 30% of the total points come from them. So it's crucial to work consistently and regularly participate in laboratory exercises.",
     "time": 45.61,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.0703488738178716,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.06601941747572815,
+        "recall": 0.5852521008403362,
+        "f1": 0.11763979395403404
       },
       "diversity": 0.9,
       "human_eval": {
@@ -3365,11 +3365,11 @@
     "answer": "Yes, the lecturers Prof. Ph.D. Igor Mekterovi\u0107, Izv. prof. Ph.D. Ljiljana Brki\u0107, Assoc. prof. Ph.D. Marina Bagi\u0107 Babac, and Prof. Ph.D. Gordan Gledec all give lectures that span the entire semester for groups P1, P2, and P3 respectively. The specific time slots and locations for these lectures are provided in the context given.",
     "time": 59.21,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 8.029654430073048e-232,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.021929824561403508,
+        "recall": 0.18501984126984128,
+        "f1": 0.03885304415529825
       },
       "diversity": 0.9615384615384616,
       "human_eval": {

@@ -308,27 +308,27 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_7": "_",
+          "reviewer_7": "5",
           "reviewer_8": "5",
           "reviewer_9": "5"
         },
         "coherence": {
-          "reviewer_7": "_",
+          "reviewer_7": "5",
           "reviewer_8": "5",
           "reviewer_9": "4"
         },
         "relevance": {
-          "reviewer_7": "_",
+          "reviewer_7": "5",
           "reviewer_8": "5",
           "reviewer_9": "5"
         },
         "context_understanding": {
-          "reviewer_7": "_",
+          "reviewer_7": "4",
           "reviewer_8": "5",
           "reviewer_9": "4"
         },
         "overall_quality": {
-          "reviewer_7": "_",
+          "reviewer_7": "5",
           "reviewer_8": "5",
           "reviewer_9": "4"
         }
@@ -1139,11 +1139,11 @@
     "answer": "Yes, there is a support system called Ticketing system in Edgar for communication between students and teaching staff related to tests.\n\n4 The role of the teacher in the Edgar system\nThe teacher's role in the Edgar system is to evaluate the student's work, provide feedback on their performance, and answer questions or doubts that may arise during the course. They also monitor the progress of students and ensure that they are on track with their learning goals.\n\n5 The role of the student in the Edgar system\nThe student's role in the Edgar system is to complete the tasks assigned, practice programming problems, and actively participate in discussions and interactions with teachers and peers. They should also use the support system (Ticketing system) to ask questions or report any issues they may have during their coursework.",
     "time": 40.24,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.04201194750692612,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.08928571428571429,
+        "recall": 0.3963773681515617,
+        "f1": 0.1455874424433176
       },
       "diversity": 0.8602941176470589,
       "human_eval": {
@@ -1181,11 +1181,11 @@
     "answer": "The support system in Edgar, called Ticketing system, is used for communication between students and teaching staff related to tests. Students can ask questions with specific tasks if they have doubts or issues about their solutions.",
     "time": 30.73,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 3.827430873957125e-156,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.3666666666666667,
+        "recall": 0.08884959715366383,
+        "f1": 0.14297937898496557
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1223,11 +1223,11 @@
     "answer": "Yes, asking for solutions using the ticketing system is allowed. The purpose of this support system is to facilitate communication between students and teaching staff related to tests in Edgar. If you have any doubts or need clarification about a specific task, you can ask a question with a specific task through the ticketing system. This allows both students and teaching staff to discuss and resolve any issues that may arise during the examination process.",
     "time": 26.37,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.06756764929298048,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.10666666666666667,
+        "recall": 0.5457229045464339,
+        "f1": 0.17820029804641432
       },
       "diversity": 0.918918918918919,
       "human_eval": {
@@ -1265,11 +1265,11 @@
     "answer": "The official course web-address is not provided in the given information.",
     "time": 33.53,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.4959003140449574e-231,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.3125,
+        "recall": 0.2226102114260009,
+        "f1": 0.25805779569892473
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1307,11 +1307,11 @@
     "answer": "A lecture cycle refers to the period during which a series of lectures are given on a particular subject, typically divided into two or more cycles with exams held at the end of each cycle.",
     "time": 27.51,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.13203551444458209,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.3142857142857143,
+        "recall": 0.2817389758179232,
+        "f1": 0.29678920293624644
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1349,11 +1349,11 @@
     "answer": "The first cycle of lectures lasts from October 2 to November 15, 2023.",
     "time": 7.06,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.7048050905062194,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.6538461538461539,
+        "recall": 0.5672268907563025,
+        "f1": 0.6064495530012772
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1391,11 +1391,11 @@
     "answer": "The duration of the second cycle in weeks is not provided in the given information.",
     "time": 26.86,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.33649324423301513,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.31666666666666665,
+        "recall": 0.4964646464646465,
+        "f1": 0.38608974358974363
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1433,11 +1433,11 @@
     "answer": "Yes, there are prerequisites for enrollment into the subject Introduction to programming. Students must have a basic understanding of mathematics and be familiar with the use of computers and their operating systems. Additionally, they should have some experience in using text editors and command line interfaces.",
     "time": 31.93,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 5.175590928920413e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.15217391304347827,
+        "recall": 0.5576923076923077,
+        "f1": 0.239041496201052
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1475,11 +1475,11 @@
     "answer": "The student is expected to complete 140 hours of independent work in this course.",
     "time": 28.97,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.4064319206769607,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.625,
+        "recall": 0.3954545454545455,
+        "f1": 0.48387512899896795
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1610,7 +1610,7 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_7": "",
+          "reviewer_7": "5",
           "reviewer_8": "5",
           "reviewer_9": "5"
         },
@@ -3029,11 +3029,11 @@
     "answer": "Yes, you can print out an official reminder and bring it with you. However, make sure not to add anything to the copies of official reminders that you will use at the checks knowledge and laboratory exercises.",
     "time": 29.95,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.485796300290419e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.14594594594594595,
+        "recall": 0.48820346320346325,
+        "f1": 0.21473801560758082
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3071,11 +3071,11 @@
     "answer": "Prof. Ph.D. Igor Mekterovi\u0107 and Izv. prof. Ph.D. Ljiljana Brki\u0107 - Mon. 11-13 / Wednesday 10-12\nAssoc. prof. Ph.D. Marina Bagi\u0107 Babac and Prof. Ph.D. Gordan Gledec - Mon. 11-13 / Wednesday 10-12\nAssoc. Ph.D. Marko Horvat - Mon. / Wednesday 8-/Wed. / Wednesday 8- no time not specified, Wednesday 8- (no time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified, Wednesday 8-/Wed. / Wednesday 8- no time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not specified time not",
     "time": 77.81,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.2150053643646338e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.14732142857142858,
+        "recall": 0.26570387559029474,
+        "f1": 0.1894616259008774
       },
       "diversity": 0.25609756097560976,
       "human_eval": {
@@ -3113,11 +3113,11 @@
     "answer": "Yes, Boris Vrdoljak gives lectures to group P6 in hall B3.",
     "time": 39.83,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.887578243315168e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.25,
+        "recall": 0.22008547008547008,
+        "f1": 0.23333333333333334
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3197,11 +3197,11 @@
     "answer": "Your email should consist of the following elements:\n1. Use an email address with the domain @fer.hr.\n2. Add the mark [UPRO] at the beginning of the title (Subject) to indicate it is related to UPRO communication.\n3. Clearly state your question or concern in the body of the email.",
     "time": 30.69,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 3.1187228231616427e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.1607843137254902,
+        "recall": 0.3360922581798677,
+        "f1": 0.20180041526592488
       },
       "diversity": 0.9591836734693877,
       "human_eval": {
@@ -3239,11 +3239,11 @@
     "answer": "The course official email address is UPROlabosi@ferhr.onmicrosoft.com.",
     "time": 22.67,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 9.85444998995587e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.625,
+        "recall": 0.6370091896407686,
+        "f1": 0.5719596544196978
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3283,9 +3283,9 @@
     "evaluation": {
       "bleu_score": 0,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 1.0,
+        "recall": 0.696546052631579,
+        "f1": 0.8049999999999999
       },
       "diversity": 0.0,
       "human_eval": {
@@ -3323,11 +3323,11 @@
     "answer": "No, there is no joint points threshold for the Meduispit and final exam.",
     "time": 25.28,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.547332024239071,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.43076923076923074,
+        "recall": 0.4977181641887524,
+        "f1": 0.44991042940068426
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3367,9 +3367,9 @@
     "evaluation": {
       "bleu_score": 0,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.006578947368421052,
+        "recall": 0.027777777777777776,
+        "f1": 0.010638297872340425
       },
       "diversity": 0.9375,
       "human_eval": {

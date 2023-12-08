@@ -1139,11 +1139,11 @@
     "answer": "Yes, there is a support system in Edgar called Ticketing system.",
     "time": 18.5,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.3130761755791193e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.4318181818181819,
+        "recall": 0.15068964413722477,
+        "f1": 0.2231264941556876
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1181,11 +1181,11 @@
     "answer": "The Ticketing system in Edgar is a platform for students to ask related questions about tests, including doubts about the accuracy of solutions or other issues. Students can submit a specific task with their question, and teaching staff will respond with an answer or guidance.",
     "time": 35.84,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.8272753937531966e-79,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.31555555555555553,
+        "recall": 0.0958473819376029,
+        "f1": 0.1469661824883953
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1223,11 +1223,11 @@
     "answer": "Yes, asking for solutions with the ticketing system is okay. According to the information provided in the context, the ticketing system is intended to facilitate communication between students and teaching staff related to tests, including doubts about the accuracy of solutions. So, if you have a question or doubt about a solution, you can ask it through the ticketing system and the teaching staff will review it and respond accordingly.",
     "time": 28.79,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.7854385673325787e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.10357142857142856,
+        "recall": 0.49964447317388494,
+        "f1": 0.17133582140791503
       },
       "diversity": 0.9130434782608695,
       "human_eval": {
@@ -1265,11 +1265,11 @@
     "answer": "The official course web-address is not specified in the provided information.",
     "time": 35.42,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.4959003140449574e-231,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.3125,
+        "recall": 0.2226102114260009,
+        "f1": 0.25805779569892473
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1307,11 +1307,11 @@
     "answer": "A lecture cycle refers to the two periods of lectures that take place during the academic year, with each period consisting of two cycles. The first cycle includes intermediate exams, while the second cycle includes final exams.",
     "time": 31.49,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.3067813684736697,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.4324324324324325,
+        "recall": 0.41240462950989265,
+        "f1": 0.421735068401735
       },
       "diversity": 0.9722222222222222,
       "human_eval": {
@@ -1349,11 +1349,11 @@
     "answer": "The first cycle of lectures lasts from October 2 to November 15, 2023.",
     "time": 8.02,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.7048050905062194,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.6538461538461539,
+        "recall": 0.5672268907563025,
+        "f1": 0.6064495530012772
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1391,11 +1391,11 @@
     "answer": "The duration of the second cycle in weeks is 2 weeks.",
     "time": 30.43,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.49616830003403634,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.4545454545454546,
+        "recall": 0.5242424242424242,
+        "f1": 0.4861471861471861
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1433,11 +1433,11 @@
     "answer": "Yes, there are prerequisites for enrollment into the subject Introduction to programming. According to the information provided in the text, students must have completed the course \"Introduction to Programming\" previously or have equivalent knowledge in order to enroll in this course.",
     "time": 32.6,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.169806774360309e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.1951219512195122,
+        "recall": 0.6362179487179488,
+        "f1": 0.29856743535988817
       },
       "diversity": 1.0,
       "human_eval": {
@@ -1475,11 +1475,11 @@
     "answer": "The total amount of independent work expected from the student in this course is 140 hours, distributed over all weeks in which classes are held, which means approximately 10 hours of work per week.",
     "time": 33.36,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 8.530398365558775e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.2647058823529412,
+        "recall": 0.4077651515151516,
+        "f1": 0.3206873745666849
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3029,11 +3029,11 @@
     "answer": "You are not allowed to print out an official reminder and bring it with you. Official reminders are provided in this system for your reference during checks, but they cannot be printed or taken outside of the system.",
     "time": 34.45,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.7797502867277865e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.11578947368421053,
+        "recall": 0.4208152958152958,
+        "f1": 0.17523685952389534
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3071,11 +3071,11 @@
     "answer": "Lecturer Time Slot\nProf. Ph.D. Igor Mekterovi\u0107 Mon. 11-13 / Wednesday 10-12\nIzv. prof. Ph.D. Ljiljana Brki\u0107 Mon. 11-13 / Wednesday 10-12\nAssoc. prof. Ph.D. Marina Bagi\u0107 Babac Mon. 11-13 / Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wednesday  Wed",
     "time": 86.45,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 3.831488611409395e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.20723684210526316,
+        "recall": 0.16860840944866348,
+        "f1": 0.18584415584415584
       },
       "diversity": 0.35714285714285715,
       "human_eval": {
@@ -3113,11 +3113,11 @@
     "answer": "Boris Vrdoljak gives lectures in hall B3 on Monday 13-15 and Wednesday 14-16.",
     "time": 43.58,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 4.513300825451574e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.45,
+        "recall": 0.5277777777777778,
+        "f1": 0.4851190476190476
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3197,11 +3197,11 @@
     "answer": "Your email to the lecturer should include the following information:\n* Your name\n* The course name and number\n* A clear and concise description of your question or problem\n* Any relevant background information or context\nIt is also a good idea to include any specific instructions or requests you have for how the lecturer should respond.",
     "time": 32.08,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 4.884188340600192e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.1481481481481481,
+        "recall": 0.36283568746647593,
+        "f1": 0.19756192315758525
       },
       "diversity": 0.9649122807017544,
       "human_eval": {
@@ -3239,11 +3239,11 @@
     "answer": "The course official email address is uprolabosi@ferhr.onmicrosoft.com.",
     "time": 23.06,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 7.711523862191631e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.625,
+        "recall": 0.6370091896407686,
+        "f1": 0.5719596544196978
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3281,11 +3281,11 @@
     "answer": "The link to the official guide for students is: <https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf>",
     "time": 48.37,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.552765724042392e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.5972222222222222,
+        "recall": 0.8166118421052632,
+        "f1": 0.6770800211976683
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3323,11 +3323,11 @@
     "answer": "There is no joint points threshold for the Meduispit and Zavrsni ispit exams.",
     "time": 26.36,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.6262844962765468,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.46153846153846156,
+        "recall": 0.5131512605042017,
+        "f1": 0.47493253373313343
       },
       "diversity": 1.0,
       "human_eval": {
@@ -3365,11 +3365,11 @@
     "answer": "The following lectures go throughout the semester:\nLecture 1 (October 2 - November 15, 2023)\nLecture 2 (December 4, 2023 - January 24, 2024)",
     "time": 50.53,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 8.231055179516831e-232,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.011363636363636364,
+        "recall": 0.027777777777777776,
+        "f1": 0.016129032258064512
       },
       "diversity": 1.0,
       "human_eval": {

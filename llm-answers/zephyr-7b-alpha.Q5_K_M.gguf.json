@@ -14,29 +14,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -56,29 +56,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -98,29 +98,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         }
       }
     }
@@ -140,29 +140,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -182,29 +182,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -224,29 +224,29 @@
       "diversity": 0.9316239316239316,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -266,29 +266,29 @@
       "diversity": 0.9787234042553191,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -308,29 +308,29 @@
       "diversity": 0.8418079096045198,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -350,29 +350,29 @@
       "diversity": 0.9178082191780822,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -392,29 +392,29 @@
       "diversity": 0.9005847953216374,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         }
       }
     }
@@ -434,29 +434,29 @@
       "diversity": 0.7754010695187166,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         }
       }
     }
@@ -476,29 +476,29 @@
       "diversity": 0.9761904761904762,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -518,29 +518,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -560,29 +560,29 @@
       "diversity": 0.8632478632478633,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
@@ -602,29 +602,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
@@ -644,29 +644,29 @@
       "diversity": 0.9636363636363636,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -686,29 +686,29 @@
       "diversity": 0.95,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -728,29 +728,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -770,29 +770,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "4"
         }
       }
     }
@@ -812,29 +812,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -854,29 +854,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -896,29 +896,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         }
       }
     }
@@ -938,29 +938,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -980,29 +980,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1022,29 +1022,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
@@ -1064,29 +1064,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1106,29 +1106,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         }
       }
     }
@@ -1139,38 +1139,38 @@
     "answer": "Yes, there is a support system called Ticketing system available in Edgar. If you have any doubts or questions related to tests in Edgar, you can ask them through this system.",
     "time": 22.18,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.18842975899221737,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.28225806451612906,
+        "recall": 0.2752016129032258,
+        "f1": 0.2781759211441038
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1181,38 +1181,38 @@
     "answer": "The support system in Edgar is called Ticketing system, which allows students to ask related questions with specific tasks. This system facilitates communication between students and teaching staff regarding tests in Edgar, such as preparation for labs, mid-term exams, final exams, and other related issues. If you have any doubts or concerns about the accuracy of a solution or something else, you can use this system to ask questions.",
     "time": 40.26,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.7548699849497975e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.20571428571428568,
+        "recall": 0.09724482608580551,
+        "f1": 0.1319877455041486
       },
       "diversity": 0.9852941176470589,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1223,38 +1223,38 @@
     "answer": "Yes, asking for solutions with the ticketing system is allowed as long as it's related to a specific task or doubt about the accuracy of the solution.",
     "time": 20.62,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.5432866559253216e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.16964285714285715,
+        "recall": 0.325635638870933,
+        "f1": 0.2225666027424394
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "2",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         }
       }
     }
@@ -1265,38 +1265,38 @@
     "answer": "The official course web-address is https://ferhr.onmicrosoft.com/sites/UPROlabosi/.",
     "time": 37.59,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.646211035903463e-231,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.375,
+        "recall": 0.268229869545659,
+        "f1": 0.3103494623655914
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -1307,38 +1307,38 @@
     "answer": "A lecture cycle refers to a set of lectures that are delivered over a specific period, typically covering a particular topic or subject matter. In this context, there are two cycles of lectures scheduled for October 2 - November 15, 2023, and December 4, 2023 - January 24, 2024.",
     "time": 36.35,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.14812542233406556,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.17553191489361702,
+        "recall": 0.21332277253329884,
+        "f1": 0.192420814479638
       },
       "diversity": 0.9791666666666666,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1349,38 +1349,38 @@
     "answer": "The first cycle of lectures takes place from October 2 to November 15, 2023.",
     "time": 7.93,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.0,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.6428571428571428,
+        "recall": 0.6029411764705882,
+        "f1": 0.6212365591397849
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1391,38 +1391,38 @@
     "answer": "The question does not provide information about the duration of the second cycle in weeks.",
     "time": 28.65,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.2676032275663791,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.31666666666666665,
+        "recall": 0.4964646464646465,
+        "f1": 0.38608974358974363
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -1433,38 +1433,38 @@
     "answer": "Yes, there are prerequisites for enrollment into subject Introduction to programming. The students must have completed the subject Algebra and logic or have equivalent knowledge in order to enroll in this course.",
     "time": 30.32,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.5105836445193885e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.21875,
+        "recall": 0.5576923076923077,
+        "f1": 0.31414141414141417
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -1475,38 +1475,38 @@
     "answer": "The course requires 140 hours of independent work, which is approximately 10 hours per week in addition to attending lectures and laboratory exercises.",
     "time": 32.48,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.3666340989897011,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.40217391304347827,
+        "recall": 0.4191287878787879,
+        "f1": 0.4100445324096982
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1526,29 +1526,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1568,29 +1568,29 @@
       "diversity": 0.9767441860465116,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1610,29 +1610,29 @@
       "diversity": 0.9805825242718447,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1652,29 +1652,29 @@
       "diversity": 0.9873417721518988,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1694,29 +1694,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1736,29 +1736,29 @@
       "diversity": 0.9859154929577465,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1778,29 +1778,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1820,29 +1820,29 @@
       "diversity": 0.8846153846153846,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1862,29 +1862,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
@@ -1904,29 +1904,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         }
       }
     }
@@ -1946,29 +1946,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         }
       }
     }
@@ -1988,29 +1988,29 @@
       "diversity": 0.9880952380952381,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2030,29 +2030,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         }
       }
     }
@@ -2072,29 +2072,29 @@
       "diversity": 0.9838709677419355,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2114,29 +2114,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2156,29 +2156,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2198,29 +2198,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -2240,29 +2240,29 @@
       "diversity": 0.9565217391304348,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2282,29 +2282,29 @@
       "diversity": 0.9137931034482759,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2324,29 +2324,29 @@
       "diversity": 0.9622641509433962,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2366,29 +2366,29 @@
       "diversity": 0.8666666666666667,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2408,29 +2408,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2450,29 +2450,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "2",
+          "reviewer_12": "2"
         }
       }
     }
@@ -2492,29 +2492,29 @@
       "diversity": 0.9629629629629629,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         }
       }
     }
@@ -2534,29 +2534,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         }
       }
     }
@@ -2576,29 +2576,29 @@
       "diversity": 0.8117647058823529,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "2"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2618,29 +2618,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2660,29 +2660,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         }
       }
     }
@@ -2702,29 +2702,29 @@
       "diversity": 0.78125,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "1",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2744,29 +2744,29 @@
       "diversity": 0.8125,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "1",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2786,29 +2786,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2828,29 +2828,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "1",
+          "reviewer_12": "3"
         }
       }
     }
@@ -2870,29 +2870,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2912,29 +2912,29 @@
       "diversity": 0.88,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -2954,29 +2954,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         }
       }
     }
@@ -2996,29 +2996,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "1",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3029,38 +3029,38 @@
     "answer": "Yes, you can print out an official reminder and bring it with you.",
     "time": 28.06,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 9.342086335797231e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.24615384615384617,
+        "recall": 0.30382395382395383,
+        "f1": 0.2593707105902228
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -3071,38 +3071,38 @@
     "answer": "- Group P1: Prof. Ph.D. Igor Mekterovi\u0107 and Izv. prof. Ph.D. Ljiljana Brki\u0107, Mon. 11-13 / Wednesday 10-12 in hall D1.\n- Group P2: Assoc. prof. Ph.D. Marina Bagi\u0107 Babac and Prof. Ph.D. Gordan Gledec, Mon. 11-13 / Wednesday 10-12 in hall D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2. D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2. D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D",
     "time": 83.42,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 1.3420826495795114e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.16596638655462184,
+        "recall": 0.2371202252125555,
+        "f1": 0.18765065193051872
       },
       "diversity": 0.32456140350877194,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "3"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "2",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "1",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3113,38 +3113,38 @@
     "answer": "Yes, Boris Vrdoljak gives lectures to group P6 in hall B3 on Mondays from 13-15 and Wednesdays from 14-16.",
     "time": 45.42,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 3.808974133174533e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.3333333333333333,
+        "recall": 0.547008547008547,
+        "f1": 0.41372549019607846
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         }
       }
     }
@@ -3164,29 +3164,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "1"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3197,38 +3197,38 @@
     "answer": "Your email should include [UPRO] at the beginning of the title (Subject) to indicate that it is related to UPROlabosi@ferhr.onmicrosoft.com. For example, if you have a question for your lecturer regarding an assignment, your subject line could be \"[UPRO] Assignment Question\". This will help ensure that your email is properly categorized and addressed by the appropriate person.",
     "time": 35.84,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 2.045029072567851e-78,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.13666666666666666,
+        "recall": 0.3553463257643483,
+        "f1": 0.1850459541085657
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "2"
         }
       }
     }
@@ -3239,38 +3239,38 @@
     "answer": "The course official email address for communication with lecturers, assistants, and administration is @fer.hr.",
     "time": 24.28,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 4.63332339029038e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.15,
+        "recall": 0.17564745196324144,
+        "f1": 0.15604575163398693
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "3",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3281,38 +3281,38 @@
     "answer": "The link to the official guide for students is https://www.fer.unizg.hr/_download/repository/UproVodicZaStudente.pdf",
     "time": 49.43,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 6.197223199276648e-155,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.5972222222222222,
+        "recall": 0.8166118421052632,
+        "f1": 0.6770800211976683
       },
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         }
       }
     }
@@ -3323,38 +3323,38 @@
     "answer": "No, there is no joint points threshold for the Meduispit and Zavrsni Ispit exams. Each exam has its own point threshold. The Meduispit carries a maximum of 30 points and has no point threshold. The final exam carries a maximum of 40 points and has a point threshold of 16 points.",
     "time": 35.92,
     "evaluation": {
-      "bleu_score": 0,
+      "bleu_score": 0.12936981168384865,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.12549019607843137,
+        "recall": 0.5534873949579832,
+        "f1": 0.20165174877946251
       },
       "diversity": 0.86,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "4"
         }
       }
     }
@@ -3367,36 +3367,36 @@
     "evaluation": {
       "bleu_score": 0,
       "rouge_score": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0
+        "precision": 0.00641025641025641,
+        "recall": 0.027777777777777776,
+        "f1": 0.010416666666666666
       },
       "diversity": 0.9411764705882353,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "5",
+          "reviewer_12": "1"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "5",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "4",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3416,29 +3416,29 @@
       "diversity": 0.9705882352941176,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "4",
+          "reviewer_12": "3"
         }
       }
     }
@@ -3458,29 +3458,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "3"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
@@ -3500,29 +3500,29 @@
       "diversity": 0.9459459459459459,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "2",
+          "reviewer_12": "4"
         }
       }
     }
@@ -3542,29 +3542,29 @@
       "diversity": 0.9838709677419355,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "3",
+          "reviewer_12": "5"
         }
       }
     }
@@ -3584,29 +3584,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -3626,29 +3626,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -3668,29 +3668,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "2",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "2"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3710,29 +3710,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "4",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "3"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "1",
+          "reviewer_11": "2",
+          "reviewer_12": "1"
         }
       }
     }
@@ -3752,29 +3752,29 @@
       "diversity": 0.9495798319327731,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "4",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "4"
         }
       }
     }
@@ -3794,29 +3794,29 @@
       "diversity": 0.9459459459459459,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         }
       }
     }
@@ -3836,29 +3836,29 @@
       "diversity": 1.0,
       "human_eval": {
         "fluency": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "coherence": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "5",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "relevance": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "context_understanding": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "2",
+          "reviewer_11": "5",
+          "reviewer_12": "5"
         },
         "overall_quality": {
-          "reviewer_10": "_",
-          "reviewer_11": "_",
-          "reviewer_12": "_"
+          "reviewer_10": "3",
+          "reviewer_11": "3",
+          "reviewer_12": "4"
         }
       }
     }
