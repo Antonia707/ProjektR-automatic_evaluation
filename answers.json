@@ -250,64 +250,55 @@
    {
       "q_28": "Is there a support system in Edgar?",
       "answers": [
-         "",
-         ""
+         "Edgar offers a support system called Ticketing system. In case of doubt about the accuracy of the solution or something else, the student can ask a question related to a specific task."
       ]
    },
    {
       "q_29": "How does the support system in Edgar work?",
       "answers": [
-         "",
-         ""
+         "Click on the icon in the upper right corner of the question page. Enter a description of the problem in the window that appears and confirm it by clicking Yes, raise ticket. Then continue with the test, without waiting for an answer. The teaching staff will examine the problem as soon as possible and answer the student. While waiting for an answer, the student is not able to send additional messages related to the same task (he can send messages about other tasks) - the icon turns red, and an hourglass icon appears next to it. After the the problem has been addresses, a message appears on the student's screen. The student can then return to the appropriate question and check for the answer. The answer can be viewed by clicking on the green cloud icon. Remark: Only after the teaching staff answers the question related to the task, the student can ask the next question about the same task if necessary."
       ]
    },
    {
       "q_30": "Is asking for solutions with the ticketing system ok?",
       "answers": [
-         "",
-         ""
+         "Yes, you can ask questions related to tests using the ticketing system in Edgar."
       ]
    },
    {
       "q_31": "What is the official course web-address?",
       "answers": [
-         "",
-         ""
+         "Official course web-adress is https://www.fer.unizg.hr/predmet/uup_a."
       ]
    },
    {
       "q_32": "What is a lecture cycle?",
       "answers": [
-         "",
-         ""
+         "The lecture cycle refers to a period of several weeks of lectures. The semester consists of two cycles. The first cycle is followed by an midterm exam, while the second cycle is followed by a final exam."
       ]
    },
    {
       "q_33": "How long is the first cycle of lectures?",
       "answers": [
-         "",
-         ""
+         "The first cycle of lectures takes place from October 2 to November 15, 2023."
       ]
    },
    {
       "q_34": "What is the duration of the second cycle in weeks?",
       "answers": [
-         "",
-         ""
+         "The duration of the second cycle is 6 weeks."
       ]
    },
    {
       "q_35": "Are there prerequisites for enrollment into subject?",
       "answers": [
-         "",
-         ""
+         "There are no specific prerequisites for enrolling in the Introduction to programming subject."
       ]
    },
    {
       "q_36": "How much independent work is expected from the student in this course?",
       "answers": [
-         "",
-         ""
+         "The student is expected to spend approximately 140 hours on independent work in this course, which is equivalent to around 10 hours per week."
       ]
    },
    {
